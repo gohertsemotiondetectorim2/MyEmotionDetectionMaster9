@@ -1,0 +1,4008 @@
+528710000000000000, Auto correct and the paper clip would get along real well.
+
+Filtered: ['auto', 'correct', 'paper', 'clip', 'would', 'get', 'along', 'real', 'well']
+Words not found:[]
+Emotion probabilities: -26.69,-26.54,-26.95,-26.90,-27.11,-26.70,-26.44,-27.06,-26.49,-26.61,-26.88,-24.37,-26.85
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+530199000000000000,"This man saw ""Frozen"" and is in awe"
+
+Filtered: ['man', 'saw', 'frozen', 'awe']
+Words not found:[]
+Emotion probabilities: -11.99,-12.14,-12.11,-11.80,-12.32,-10.93,-11.85,-12.51,-12.22,-12.31,-12.08,-12.25,-12.34
+Predicted emotion: Surprise
+Correct emotion: Surprise
+----------------------------------------------------------------------
+530200000000000000,"""Imma have to watch it again when I'm by myself.."" *gives me a dirty look"
+
+Filtered: ['watch', 'dirti', 'look']
+Words not found:[]
+Emotion probabilities: -9.00,-8.50,-8.78,-8.70,-8.76,-9.10,-8.64,-8.48,-8.86,-8.28,-8.76,-8.88,-8.95
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+531345000000000000,when you copped the new #ALEXANDERWANGxHM but also might have to die for your district 
+
+Filtered: ['cop', 'new', 'also', 'might', 'die', 'district']
+Words not found:[]
+Emotion probabilities: -17.99,-17.61,-17.86,-18.30,-17.87,-18.20,-18.23,-17.86,-16.52,-18.16,-18.12,-17.12,-17.73
+Predicted emotion: Hate
+Correct emotion: Hate
+----------------------------------------------------------------------
+533368000000000000,Bow Wow tried to go by Shad and the gods cursed 106th n Park forever to humble him.
+
+Filtered: ['bow', 'wow', 'tri', 'go', 'god', 'curs', 'n', 'park', 'forev', 'humbl']
+Words not found:[]
+Emotion probabilities: -29.99,-30.35,-30.27,-29.44,-29.71,-26.67,-30.38,-30.06,-30.24,-29.99,-29.60,-30.62,-29.29
+Predicted emotion: Surprise
+Correct emotion: Surprise
+----------------------------------------------------------------------
+533788000000000000,This reminds me too much of the Flex/ MJ movie lord
+
+Filtered: ['remind', 'much', 'lord']
+Words not found:[]
+Emotion probabilities: -9.00,-8.81,-8.18,-9.30,-8.94,-9.10,-8.81,-8.78,-9.16,-9.23,-9.06,-9.19,-8.78
+Predicted emotion: Enthusiasm
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+533789000000000000,SO AALIYAH SOUNDS LIKE HILARY DUFF ON AUTO TUNE???? IM OUT
+
+Filtered: ['sound', 'like', 'duff', 'auto', 'tune']
+Words not found:[]
+Emotion probabilities: -14.99,-14.58,-14.66,-14.72,-14.79,-14.86,-14.71,-13.53,-14.67,-14.21,-14.62,-14.71,-14.64
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+533794000000000000,"The song playing came out a year ago, no???"
+
+Filtered: ['song', 'play', 'came', 'year', 'ago']
+Words not found:[]
+Emotion probabilities: -14.99,-14.40,-15.14,-13.82,-15.40,-14.86,-14.89,-14.38,-14.67,-14.78,-14.80,-15.01,-14.94
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+533795000000000000,Wrong time to promo Whitney's movie. I think that may actually be watchable.
+
+Filtered: ['wrong', 'time', 'promo', 'think', 'may', 'actual']
+Words not found:[]
+Emotion probabilities: -17.99,-18.21,-16.01,-17.70,-18.17,-17.90,-17.62,-18.46,-17.72,-17.98,-18.12,-18.07,-18.20
+Predicted emotion: Enthusiasm
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+533798000000000000,Good article about R. Kelly's pedophile habits with 20+ girls � 
+
+Filtered: ['good', 'articl', 'habit', 'girl']
+Words not found:[]
+Emotion probabilities: -11.99,-12.14,-10.91,-12.40,-12.32,-12.13,-11.07,-11.73,-11.92,-11.83,-12.08,-11.65,-11.43
+Predicted emotion: Enthusiasm
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+533799000000000000,He can write a damn song but he makes my skin crawl.
+
+Filtered: ['write', 'damn', 'song', 'make', 'skin', 'crawl']
+Words not found:[]
+Emotion probabilities: -17.99,-17.91,-18.16,-18.00,-18.00,-18.20,-17.93,-16.56,-18.02,-18.16,-17.52,-18.07,-17.60
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+533800000000000000,"""Lifetime be like ""Just casted for the Chris Brown biopic"" "
+
+Filtered: ['lifetim', 'like', 'brown', 'biopic']
+Words not found:[]
+Emotion probabilities: -11.99,-11.24,-11.63,-10.42,-11.41,-11.83,-11.67,-11.60,-11.61,-11.61,-11.60,-11.65,-11.26
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+533804000000000000, Just posted a photo 
+
+Filtered: ['post', 'photo']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-5.42,-6.16,-6.07,-6.08,-5.65,-6.11,-6.15,-6.04,-6.12,-6.17
+Predicted emotion: Neutral
+Correct emotion: Fun
+----------------------------------------------------------------------
+534928000000000000,please fix the Healthcare website. Thanks
+
+Filtered: ['pleas', 'fix', 'healthcar', 'websit', 'thank']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-14.84,-15.02,-13.89,-14.86,-15.19,-15.63,-15.27,-15.39,-15.10,-15.01,-15.12
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+535807000000000000,I really have an issue with this whole pray demons away shit when it comes to black ppl and mental health
+
+Filtered: ['realli', 'issu', 'whole', 'pray', 'demon', 'away', 'shit', 'come', 'black', 'mental', 'health']
+Words not found:[]
+Emotion probabilities: -32.99,-32.79,-32.82,-32.62,-32.62,-33.36,-32.34,-32.06,-29.46,-32.17,-32.62,-33.20,-33.02
+Predicted emotion: Hate
+Correct emotion: Hate
+----------------------------------------------------------------------
+535811000000000000,Emergency blk ppl meeting this weekend re: Hillman College shirts
+
+Filtered: ['emerg', 'meet', 'weekend', 'colleg', 'shirt']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-14.84,-15.50,-13.89,-15.17,-15.19,-15.63,-15.27,-15.08,-14.80,-15.31,-15.42
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+537067000000000000, Making everyone wait until 8 pm then continue to be 15 minutes late for your 20 minute statement is even more passive aggres…
+
+Filtered: ['make', 'everyon', 'wait', 'pm', 'continu', 'minut', 'late', 'statement', 'even', 'passiv']
+Words not found:[]
+Emotion probabilities: -29.99,-30.05,-30.27,-29.92,-30.31,-30.33,-29.78,-29.67,-30.24,-30.77,-29.30,-30.02,-27.18
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+537069000000000000,": ""To be a Negro in this country and to be relatively conscious is to be in a rage almost all the time."" -James Baldwin ht…"
+
+Filtered: ['countri', 'relat', 'conscious', 'rage', 'almost', 'time']
+Words not found:[]
+Emotion probabilities: -17.99,-18.21,-17.69,-18.00,-18.17,-17.90,-17.93,-18.16,-16.52,-18.16,-18.12,-18.07,-17.90
+Predicted emotion: Hate
+Correct emotion: Hate
+----------------------------------------------------------------------
+537072000000000000," Can u imagine ur child being killed &amp; the attorney hired 2 prosecute ur child's killer, got up &amp; explained why your child"
+
+Filtered: ['imagin', 'child', 'kill', 'amp', 'attorney', 'hire', 'prosecut', 'killer', 'got', 'explain']
+Words not found:[]
+Emotion probabilities: -29.99,-30.05,-30.27,-29.62,-27.21,-30.03,-30.08,-28.98,-30.24,-29.87,-30.20,-29.72,-29.76
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+537074000000000000, or blatant racism and privilege.
+
+Filtered: ['blatant', 'racism', 'privileg']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-9.30,-9.24,-9.10,-9.11,-9.38,-8.26,-9.23,-9.06,-8.88,-9.25
+Predicted emotion: Hate
+Correct emotion: Hate
+----------------------------------------------------------------------
+537087000000000000,The new racism is the denial of racism.
+
+Filtered: ['new', 'racism', 'denial']
+Words not found:[]
+Emotion probabilities: -9.00,-8.81,-8.78,-9.30,-8.94,-9.10,-9.11,-9.38,-8.56,-9.23,-9.06,-8.11,-9.25
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+537088000000000000," Mike Brown's life &gt; Police car  Some violence breaks out in Ferguson, with at least one police car destroyed. "
+
+Filtered: ['mike', 'brown', 'life', 'polic', 'car', 'violenc', 'break', 'least', 'one']
+Words not found:[]
+Emotion probabilities: -26.99,-26.72,-27.25,-26.09,-25.00,-26.52,-27.34,-26.94,-26.58,-26.91,-27.18,-26.65,-27.16
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+537092000000000000," Lip Herpes?Newly released photos of Officer Darren Wilson's injuries, presented to the grand jury "
+
+Filtered: ['lip', 'herp', 'newli', 'releas', 'photo', 'offic', 'injuri', 'present', 'grand', 'juri']
+Words not found:[]
+Emotion probabilities: -29.99,-30.05,-30.27,-27.64,-30.79,-30.33,-30.38,-30.67,-30.54,-30.77,-30.20,-30.62,-30.54
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+537265000000000000,WHEW. considering unplugging until I have some ham and dressing on a plate.  Social media is 
+
+Filtered: ['whew', 'consid', 'unplug', 'ham', 'dress', 'plate', 'social', 'media']
+Words not found:[]
+Emotion probabilities: -23.99,-24.28,-23.92,-24.50,-24.33,-24.26,-24.30,-24.54,-24.13,-24.01,-24.16,-24.49,-22.27
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+537266000000000000, I reported that idiot as spam last noght. I can't see his tweets.
+
+Filtered: ['report', 'idiot', 'spam', 'last', 'see', 'tweet']
+Words not found:[]
+Emotion probabilities: -17.99,-18.21,-18.16,-17.82,-18.48,-17.72,-17.93,-18.16,-18.02,-18.46,-17.82,-17.47,-16.35
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+537267000000000000,"And then they threw tear gas at us and was--
+
+Filtered: ['threw', 'tear', 'gas', 'us']
+Words not found:[]
+Emotion probabilities: -11.99,-11.84,-12.11,-12.40,-12.02,-12.13,-12.15,-12.51,-12.22,-12.31,-12.08,-12.25,-11.13
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Neutral
+----------------------------------------------------------------------
+ You-- you know you could've used your teeth to bite their dic…"
+
+Filtered: ['know', 'could', 'use', 'teeth', 'bite']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-14.84,-14.72,-14.62,-15.17,-13.68,-15.03,-14.79,-15.39,-14.62,-14.53,-15.12
+Predicted emotion: Love
+Correct emotion: Love
+----------------------------------------------------------------------
+537270000000000000,THIS. #FergusonDecision 
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Relief
+----------------------------------------------------------------------
+539708000000000000,Hug her like this. 
+
+Filtered: ['hug', 'like']
+Words not found:[]
+Emotion probabilities: -6.00,-5.47,-5.58,-5.42,-5.08,-5.77,-5.30,-5.35,-5.51,-5.46,-5.56,-5.52,-5.39
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+542072000000000000, I'm here for you during this trying time in your life.
+
+Filtered: ['tri', 'time', 'life']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-8.60,-8.70,-8.33,-7.72,-8.81,-8.48,-8.56,-8.28,-9.06,-8.88,-8.47
+Predicted emotion: Surprise
+Correct emotion: Surprise
+----------------------------------------------------------------------
+542073000000000000,l bangs always bring on a difficult eyebrow time period 😂
+
+Filtered: ['l', 'bang', 'alway', 'bring', 'difficult', 'eyebrow', 'time', 'period']
+Words not found:[]
+Emotion probabilities: -23.99,-24.28,-23.74,-24.50,-21.92,-23.96,-23.70,-24.41,-24.13,-24.62,-24.16,-23.89,-23.77
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+542877000000000000,"""Is that Lil' Trina???"""
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Anger
+----------------------------------------------------------------------
+544666000000000000, My allergies
+
+Filtered: ['allergi']
+Words not found:[]
+Emotion probabilities: -3.00,-2.73,-3.03,-2.80,-3.08,-3.03,-3.04,-3.13,-3.05,-3.08,-3.02,-3.06,-3.08
+Predicted emotion: Neutral
+Correct emotion: Sadness
+----------------------------------------------------------------------
+544675000000000000,What. Is. This?
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Happiness
+----------------------------------------------------------------------
+544678000000000000,No one takes care of their children full-time anymore?
+
+Filtered: ['one', 'take', 'care', 'children']
+Words not found:[]
+Emotion probabilities: -11.99,-12.14,-12.11,-12.10,-12.02,-11.53,-12.15,-11.30,-11.92,-12.31,-12.08,-11.95,-11.13
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+544679000000000000,So many accessories..
+
+Filtered: ['mani']
+Words not found:[]
+Emotion probabilities: -2.70,-3.04,-3.03,-2.80,-3.08,-3.03,-2.74,-3.13,-3.05,-3.08,-3.02,-3.06,-3.08
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+544683000000000000," ""BUT DID PAC SPIT "" I get so mad when people say Pac couldn't rap. Rapping is way more than metaphor…"
+
+Filtered: ['spit', 'get', 'mad', 'peopl', 'say', 'could', 'rap', 'way']
+Words not found:[]
+Emotion probabilities: -23.99,-23.98,-24.22,-22.90,-21.92,-23.96,-22.92,-23.41,-23.26,-23.36,-23.56,-23.24,-24.07
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+544686000000000000, Did they have to stay within. 5 miles radius of Peters st😧
+
+Filtered: ['stay', 'within', 'mile', 'radius', 'peter']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-15.14,-15.50,-15.09,-13.48,-15.19,-15.63,-15.27,-15.08,-15.10,-15.01,-15.12
+Predicted emotion: Surprise
+Correct emotion: Surprise
+----------------------------------------------------------------------
+545009000000000000,im worried about my son. i caught him growing a mustache &amp; being racist. im worried hes becoming a cop. how can i stop…
+
+Filtered: ['worri', 'son', 'caught', 'grow', 'amp', 'racist', 'becom', 'cop']
+Words not found:[]
+Emotion probabilities: -23.99,-24.28,-24.22,-24.32,-23.93,-24.26,-24.30,-22.13,-23.83,-24.01,-24.16,-23.89,-24.07
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+545010000000000000, Yall really went there huh? : Nicki Minaj's The Pinkprint vs. Jay Z's The Blueprint  
+
+Filtered: ['realli', 'went', 'huh', 'jay', 'z', 'blueprint']
+Words not found:[]
+Emotion probabilities: -17.99,-18.21,-16.18,-18.30,-18.00,-18.20,-17.75,-18.16,-18.02,-17.98,-17.52,-17.89,-17.60
+Predicted emotion: Enthusiasm
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+545077000000000000,"Run me my shit, ASOS. "
+
+Filtered: ['run', 'shit']
+Words not found:[]
+Emotion probabilities: -6.00,-5.77,-6.05,-5.72,-5.38,-6.07,-6.08,-5.48,-5.63,-5.55,-5.74,-6.12,-5.57
+Predicted emotion: Fun
+Correct emotion: Worry
+----------------------------------------------------------------------
+545394000000000000,Really tho�
+
+Filtered: ['realli']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-2.55,-3.10,-2.60,-3.03,-2.56,-2.83,-2.75,-2.60,-2.72,-2.58,-2.78
+Predicted emotion: Fun
+Correct emotion: Happiness
+----------------------------------------------------------------------
+545415000000000000," Dear North Korean hackers,
+
+Filtered: ['dear', 'north', 'hacker']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-9.30,-9.24,-9.10,-9.11,-8.48,-9.16,-8.93,-9.06,-9.19,-9.25
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Happiness
+----------------------------------------------------------------------
+Sallie Mae wants to kill your beloved leader.
+
+Filtered: ['want', 'kill', 'belov', 'leader']
+Words not found:[]
+Emotion probabilities: -11.99,-11.84,-12.11,-11.62,-12.02,-12.13,-12.15,-10.73,-11.92,-12.31,-11.78,-11.47,-11.73
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Surprise
+----------------------------------------------------------------------
+Signed,
+
+Filtered: ['sign']
+Words not found:[]
+Emotion probabilities: -3.00,-2.73,-3.03,-3.10,-3.08,-3.03,-3.04,-2.83,-3.05,-3.08,-3.02,-2.76,-3.08
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+A concerned college grad"
+
+Filtered: ['concern', 'colleg']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-5.45,-6.20,-5.86,-6.07,-6.08,-6.25,-6.11,-5.85,-5.74,-6.12,-6.17
+Predicted emotion: Enthusiasm
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+545438000000000000, Govt setup bobby because the Shmurda dance was uniting the races 
+
+Filtered: ['bobbi', 'danc', 'unit', 'race']
+Words not found:[]
+Emotion probabilities: -11.99,-12.14,-10.91,-12.40,-12.32,-12.13,-12.15,-12.51,-12.22,-12.31,-12.08,-12.25,-11.73
+Predicted emotion: Enthusiasm
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+545809000000000000," Rap Squats with Santa 2014 """
+
+Filtered: ['rap', 'squat']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-6.20,-5.86,-6.07,-6.08,-6.25,-6.11,-5.85,-5.44,-6.12,-6.17
+Predicted emotion: Happiness
+Correct emotion: Boredom
+----------------------------------------------------------------------
+546079000000000000,"I loved TRL, but when 106th &amp; Park came it was just different two black ppl with dreads &amp; a curly fro talking to black artis…"
+
+Filtered: ['love', 'amp', 'park', 'came', 'differ', 'two', 'black', 'dread', 'cur', 'fro', 'talk']
+Words not found:[]
+Emotion probabilities: -32.99,-32.79,-33.30,-29.56,-32.87,-32.76,-32.51,-32.54,-32.09,-32.17,-33.22,-32.90,-33.32
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+546080000000000000,"Also, Free and AJ walking out with their hands up? Epic."
+
+Filtered: ['also', 'free', 'walk', 'hand', 'epic']
+Words not found:[]
+Emotion probabilities: -14.99,-14.88,-15.14,-14.60,-14.32,-14.86,-15.19,-14.73,-14.67,-15.39,-15.10,-15.01,-13.74
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+546081000000000000,Is anyone else a little misty eyed? Just me???
+
+Filtered: ['anyon', 'els', 'littl', 'misti', 'eye']
+Words not found:[]
+Emotion probabilities: -14.99,-14.88,-14.84,-15.50,-15.40,-15.17,-15.19,-15.33,-14.97,-13.88,-15.10,-15.31,-14.94
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+546086000000000000, I don't care about the recent episodes guys lol
+
+Filtered: ['care', 'recent', 'episod', 'guy']
+Words not found:[]
+Emotion probabilities: -11.69,-12.14,-12.11,-12.10,-12.02,-11.83,-12.15,-11.30,-12.22,-11.71,-12.08,-12.25,-11.73
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+546089000000000000,I need a B2K reunion tour... Raz-B can stay home.
+
+Filtered: ['need', 'reunion', 'tour', 'stay', 'home']
+Words not found:[]
+Emotion probabilities: -14.69,-15.18,-14.84,-14.90,-15.40,-13.48,-14.19,-14.73,-14.67,-14.78,-15.10,-15.31,-14.64
+Predicted emotion: Surprise
+Correct emotion: Surprise
+----------------------------------------------------------------------
+546090000000000000,My preference has certainly shifted
+
+Filtered: ['prefer', 'certain', 'shift']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-9.30,-9.24,-9.10,-9.11,-8.48,-9.16,-9.23,-8.76,-9.19,-9.25
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+546092000000000000,"Been waiting on this mechanic for 7 hours. I just wanna finish my hair, man."
+
+Filtered: ['wait', 'mechan', 'hour', 'wan', 'finish', 'hair', 'man']
+Words not found:[]
+Emotion probabilities: -20.99,-20.95,-20.89,-21.10,-21.55,-20.93,-19.16,-21.29,-21.08,-21.06,-21.14,-20.53,-21.29
+Predicted emotion: Love
+Correct emotion: Love
+----------------------------------------------------------------------
+546093000000000000, Julissa close 2nd.
+
+Filtered: ['close']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-2.80,-3.08,-3.03,-3.04,-3.13,-3.05,-3.08,-3.02,-3.06,-3.08
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+546094000000000000,"On NYE, I just want to hear ""7/11"" on repeat."
+
+Filtered: ['want', 'hear', 'repeat']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-8.82,-9.24,-9.10,-9.11,-8.08,-9.16,-8.93,-8.76,-8.71,-8.65
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+546095000000000000, jesus yes. 
+
+Filtered: ['yes']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-3.08,-3.03,-3.04,-2.65,-2.58,-3.08,-3.02,-3.06,-3.08
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+546097000000000000,"""What is the real tea? You know I had to get it."" Girl, you are not an edgy interviewer."
+
+Filtered: ['real', 'tea', 'know', 'get', 'girl', 'edgi', 'interview']
+Words not found:[]
+Emotion probabilities: -20.99,-20.95,-20.29,-20.22,-20.17,-20.93,-20.06,-20.03,-18.70,-20.28,-20.36,-20.18,-20.08
+Predicted emotion: Hate
+Correct emotion: Hate
+----------------------------------------------------------------------
+546099000000000000, Where the hell they find wale??
+
+Filtered: ['hell', 'find', 'wale']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-8.78,-8.82,-9.24,-9.10,-9.11,-8.30,-9.16,-9.23,-9.06,-9.19,-8.95
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+546100000000000000,He needs to move his mic away from his mouth. He sounds very muffled.
+
+Filtered: ['need', 'move', 'away', 'mouth', 'sound', 'muffl']
+Words not found:[]
+Emotion probabilities: -17.69,-18.21,-17.86,-17.70,-18.48,-17.90,-17.53,-17.26,-17.72,-16.48,-18.12,-18.07,-17.73
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+546101000000000000, Tyga said Valentimes….
+
+Filtered: ['said']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-2.73,-3.10,-3.08,-3.03,-3.04,-2.83,-3.05,-2.78,-3.02,-3.06,-2.78
+Predicted emotion: Fun
+Correct emotion: Happiness
+----------------------------------------------------------------------
+546102000000000000,WHERE DID FREE AND AJ GO?
+
+Filtered: ['free', 'go']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-5.42,-5.20,-5.59,-6.08,-5.35,-5.81,-5.85,-5.74,-6.12,-5.09
+Predicted emotion: Anger
+Correct emotion: Fun
+----------------------------------------------------------------------
+546486000000000000, Lol ever since Pharrel made damning comments about the black community he started looking his age 
+
+Filtered: ['ever', 'sinc', 'made', 'damn', 'comment', 'black', 'communiti', 'start', 'look', 'age']
+Words not found:[]
+Emotion probabilities: -29.99,-28.85,-29.67,-29.22,-30.31,-30.33,-26.89,-29.89,-29.64,-29.69,-29.90,-30.32,-30.54
+Predicted emotion: Love
+Correct emotion: Love
+----------------------------------------------------------------------
+546714000000000000,My bed won't let me go
+
+Filtered: ['bed', 'let', 'go']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-8.52,-8.16,-8.62,-9.11,-8.78,-8.56,-8.93,-8.76,-9.19,-8.17
+Predicted emotion: Anger
+Correct emotion: Worry
+----------------------------------------------------------------------
+546722000000000000,"""Maybe that's the reason you gave me the wrong numba."""
+
+Filtered: ['mayb', 'reason', 'gave', 'wrong']
+Words not found:[]
+Emotion probabilities: -11.99,-12.14,-11.63,-11.20,-12.32,-12.13,-12.15,-12.51,-11.92,-12.01,-11.78,-11.95,-12.34
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+546882000000000000,"Whoever said Facebook exposes your racist friends did. Not. Lie. Jesus, be a delete button."
+
+Filtered: ['whoever', 'said', 'expos', 'racist', 'friend', 'lie', 'delet', 'button']
+Words not found:[]
+Emotion probabilities: -23.99,-23.98,-23.92,-24.80,-24.63,-24.26,-24.00,-23.46,-24.43,-24.32,-24.16,-24.49,-21.74
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+546883000000000000,Congratulations @TheDopeChic! BLACK LOOOOOOOOVE!!!
+
+Filtered: ['congratul', 'black']
+Words not found:[]
+Emotion probabilities: -6.00,-5.47,-6.05,-5.50,-6.16,-5.77,-5.47,-5.48,-5.51,-5.85,-6.04,-6.12,-6.17
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+547742000000000000, Never forget that Hip Hop is the Civil Rights Movement's love child.
+
+Filtered: ['never', 'forget', 'hip', 'hop', 'civil', 'right', 'movement', 'love', 'child']
+Words not found:[]
+Emotion probabilities: -26.99,-27.02,-27.25,-24.89,-27.24,-27.30,-26.56,-26.94,-26.89,-27.39,-27.18,-26.78,-27.16
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+548611000000000000, aren't all his albums? Lol
+
+Filtered: ['album']
+Words not found:[]
+Emotion probabilities: -3.00,-2.56,-3.03,-3.10,-3.08,-3.03,-3.04,-3.13,-3.05,-2.78,-3.02,-2.76,-3.08
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+548612000000000000, He look crazy here Charles Manson as a baby 
+
+Filtered: ['look', 'crazi', 'babi']
+Words not found:[]
+Emotion probabilities: -9.00,-8.50,-8.78,-8.40,-8.16,-9.10,-8.34,-8.48,-9.16,-8.15,-8.46,-8.88,-8.65
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+548759000000000000, pray for them babies
+
+Filtered: ['pray', 'babi']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-5.60,-5.56,-6.07,-5.77,-5.65,-5.81,-5.85,-5.74,-6.12,-5.87
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+548949000000000000,Aint no mo play in GA RT @GAFollowers: Seen today on I-285. 
+
+Filtered: ['play', 'rt', 'seen', 'today']
+Words not found:[]
+Emotion probabilities: -11.99,-11.54,-12.11,-11.80,-11.54,-11.83,-12.15,-10.65,-11.92,-11.71,-12.08,-11.95,-12.04
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+549023000000000000," I still don't understand what was ""wrong"" about The Mayors initial comments to cause NYPD to do what they did today. "
+
+Filtered: ['still', 'understand', 'wrong', 'mayor', 'initi', 'comment', 'caus']
+Words not found:[]
+Emotion probabilities: -20.99,-20.77,-18.91,-20.80,-21.55,-20.93,-20.96,-21.41,-20.48,-20.94,-20.84,-21.13,-21.11
+Predicted emotion: Enthusiasm
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+549558000000000000, Beyoncé really blessed me with 7/11
+
+Filtered: ['realli', 'bless']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-5.28,-6.20,-5.68,-6.07,-5.60,-5.95,-5.81,-5.68,-5.74,-5.65,-5.87
+Predicted emotion: Enthusiasm
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+549589000000000000," ""Once you in it, you in it. If it's a lie then we fight on that lie but we gotta fight"" -Slim Charles "
+
+Filtered: ['lie', 'fight', 'got', 'ta']
+Words not found:[]
+Emotion probabilities: -11.99,-10.94,-12.11,-11.50,-12.02,-11.53,-11.55,-11.60,-12.22,-11.71,-12.08,-11.95,-11.08
+Predicted emotion: Anger
+Correct emotion: Sadness
+----------------------------------------------------------------------
+549591000000000000, Season 4 of The Wire is the best season of television in the history of television. I really mean that.
+
+Filtered: ['season', 'wire', 'best', 'televis', 'histori', 'realli', 'mean']
+Words not found:[]
+Emotion probabilities: -20.99,-21.25,-20.71,-21.70,-19.27,-21.23,-20.79,-21.29,-21.08,-21.06,-20.54,-20.65,-20.99
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+550052000000000000,I just wanna party
+
+Filtered: ['wan', 'parti']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-5.45,-6.20,-6.16,-6.07,-5.77,-5.95,-5.81,-5.68,-6.04,-5.82,-6.17
+Predicted emotion: Happiness
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+550053000000000000,"(Also, first New Year's kiss) *dutty wines*"
+
+Filtered: ['also', 'first', 'new', 'year', 'kiss']
+Words not found:[]
+Emotion probabilities: -14.99,-13.50,-14.84,-14.60,-15.09,-15.17,-14.89,-14.86,-14.67,-15.39,-14.80,-14.83,-14.17
+Predicted emotion: Sadness
+Correct emotion: Sadness
+----------------------------------------------------------------------
+550054000000000000,"SHE GOT A LIGHT SKINNED FRIEND LOOK LIKE DAWN RICHARDS, GOT A DARK SKINNED FRIEND LOOK LIKE DAWN RICH…"
+
+Filtered: ['got', 'light', 'skin', 'friend', 'look', 'like', 'dawn', 'dark']
+Words not found:[]
+Emotion probabilities: -23.99,-22.78,-23.44,-23.12,-22.95,-23.66,-23.05,-22.43,-23.83,-23.14,-23.38,-23.59,-21.44
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+550055000000000000,What are everyone's plans tomorrow??? I wanna know
+
+Filtered: ['everyon', 'plan', 'tomorrow', 'wan', 'know']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-14.53,-14.72,-14.92,-15.17,-14.29,-14.43,-13.59,-14.91,-14.62,-14.53,-14.82
+Predicted emotion: Hate
+Correct emotion: Hate
+----------------------------------------------------------------------
+550056000000000000," Kobe RT @BarackObama
+
+Filtered: ['rt']
+Words not found:[]
+Emotion probabilities: -3.00,-2.73,-3.03,-2.80,-2.60,-3.03,-3.04,-2.52,-3.05,-3.08,-3.02,-2.76,-3.08
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+Take a moment and say what you're ready to fight for in 2015:"
+
+Filtered: ['take', 'moment', 'say', 'readi', 'fight']
+Words not found:[]
+Emotion probabilities: -14.99,-14.88,-15.14,-14.90,-15.09,-15.17,-14.89,-13.73,-15.27,-15.08,-15.10,-15.31,-14.82
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+550063000000000000," 2-year-old boy accidentally shot and killed his mother in a Walmart, authorities say  "
+
+Filtered: ['boy', 'accident', 'shot', 'kill', 'mother', 'author', 'say']
+Words not found:[]
+Emotion probabilities: -20.99,-21.25,-21.19,-21.10,-20.48,-20.93,-20.96,-19.03,-21.08,-21.24,-21.14,-21.13,-20.99
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+550983000000000000, 3-term NY Gov. Mario Cuomo dies. Bad weather slows AirAsia search. Here are your #5Things  @CNN 
+
+Filtered: ['die', 'bad', 'weather', 'slow', 'search']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-15.14,-15.50,-15.09,-15.17,-15.19,-14.13,-14.49,-15.08,-15.10,-14.83,-15.12
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+551240000000000000,"So, I just discovered Drake's Dad's IG page. I cannot "
+
+Filtered: ['discov', 'drake', 'dad', 'page']
+Words not found:[]
+Emotion probabilities: -11.99,-10.94,-12.11,-12.40,-12.02,-12.13,-12.15,-12.21,-12.22,-12.31,-12.08,-12.25,-12.34
+Predicted emotion: Sadness
+Correct emotion: Sadness
+----------------------------------------------------------------------
+551773000000000000, Rest In Peace 
+
+Filtered: ['rest', 'peac']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-6.20,-5.56,-6.07,-6.08,-6.25,-6.11,-6.15,-6.04,-6.12,-6.17
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+552895000000000000," 20+ women of various walks of life, with no relation to each other, coming forward about sexual abuse, is not injustic…"
+
+Filtered: ['women', 'various', 'walk', 'life', 'relat', 'come', 'forward', 'sexual', 'abus']
+Words not found:[]
+Emotion probabilities: -26.99,-27.02,-27.25,-27.00,-26.81,-26.52,-27.34,-24.95,-25.81,-27.22,-27.18,-27.56,-27.16
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+553743000000000000, no. I just can't live with a hoodie in my bed.
+
+Filtered: ['live', 'bed']
+Words not found:[]
+Emotion probabilities: -6.00,-5.59,-6.05,-6.20,-5.86,-5.77,-6.08,-5.95,-6.11,-5.85,-6.04,-5.82,-5.57
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+553962000000000000, Fam......I ain't blowing this up 
+
+Filtered: ['blow']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-3.08,-3.03,-3.04,-3.13,-3.05,-3.08,-3.02,-3.06,-2.78
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+553963000000000000, I thought JFK was Terrance Howard. RT @KaeKurd: How historical leaders would look as modern day hipsters. 
+
+Filtered: ['thought', 'rt', 'histor', 'leader', 'would', 'look', 'modern', 'day', 'hipster']
+Words not found:[]
+Emotion probabilities: -26.99,-23.96,-26.34,-26.04,-26.46,-27.30,-26.09,-26.33,-26.89,-26.52,-26.88,-26.05,-26.38
+Predicted emotion: Sadness
+Correct emotion: Sadness
+----------------------------------------------------------------------
+554516000000000000," *more trumpets than last time*
+
+Filtered: ['trumpet', 'last']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-5.60,-6.16,-6.07,-6.08,-5.95,-6.11,-6.15,-6.04,-5.82,-5.69
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+Eyes."
+
+Filtered: ['eye']
+Words not found:[]
+Emotion probabilities: -3.00,-2.73,-3.03,-3.10,-3.08,-3.03,-3.04,-3.13,-2.75,-2.78,-3.02,-3.06,-3.08
+Predicted emotion: Happiness
+Correct emotion: Sadness
+----------------------------------------------------------------------
+556191000000000000, I don't nap with anything but cats. Yeah that was a setup for a punchline about cat naps.
+
+Filtered: ['nap', 'anyth', 'cat', 'yeah', 'punchlin']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-15.14,-15.50,-15.40,-15.17,-15.19,-15.63,-15.27,-15.08,-15.10,-13.80,-15.42
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+556197000000000000, Who's chopping onions? :( 
+
+Filtered: ['chop', 'onion']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-6.20,-6.16,-6.07,-5.47,-6.25,-6.11,-6.15,-6.04,-6.12,-6.17
+Predicted emotion: Love
+Correct emotion: Love
+----------------------------------------------------------------------
+556460000000000000,Forgot my water bottle too?!?!
+
+Filtered: ['forgot', 'water', 'bottl']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-8.78,-9.00,-9.24,-8.80,-9.11,-9.38,-9.16,-8.33,-9.06,-9.19,-9.25
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+556488000000000000,"Does Nick Jonas say, ""I turn my g music up?"""
+
+Filtered: ['nick', 'say', 'turn', 'g', 'music']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-14.84,-14.72,-15.09,-15.17,-14.89,-13.55,-14.97,-15.39,-15.10,-15.31,-15.12
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+556622000000000000,"I really want to cry. Or, punch someone in the face."
+
+Filtered: ['realli', 'want', 'cri', 'punch', 'someon', 'face']
+Words not found:[]
+Emotion probabilities: -17.69,-17.91,-17.69,-18.12,-18.00,-18.20,-17.45,-16.38,-18.02,-17.21,-17.22,-17.12,-17.60
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+557328000000000000,I'm tired for no apparent reason
+
+Filtered: ['tire', 'appar', 'reason']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-9.00,-9.24,-9.10,-9.11,-9.38,-9.16,-9.23,-8.16,-8.88,-9.25
+Predicted emotion: Boredom
+Correct emotion: Boredom
+----------------------------------------------------------------------
+557349000000000000,Ended a FEW pregnancies? No lord no no no
+
+Filtered: ['end', 'pregnanc', 'lord']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-8.78,-9.30,-9.24,-9.10,-9.11,-8.48,-9.16,-8.93,-9.06,-9.19,-9.25
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+557355000000000000, from your mouth to God's ears 
+
+Filtered: ['mouth', 'god', 'ear']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-9.00,-8.94,-8.80,-9.11,-8.48,-9.16,-8.93,-8.76,-9.19,-8.95
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+558013000000000000, Ramen noodles scattered all over North Carolina highway after big rig crashes 
+
+Filtered: ['noodl', 'scatter', 'north', 'highway', 'big', 'rig', 'crash']
+Words not found:[]
+Emotion probabilities: -20.99,-21.25,-21.19,-21.70,-21.55,-21.23,-21.26,-21.59,-21.38,-19.43,-21.14,-21.43,-21.59
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+558020000000000000, I want a life that I don't need a vacation from.
+
+Filtered: ['want', 'life', 'need', 'vacat']
+Words not found:[]
+Emotion probabilities: -11.69,-12.14,-11.81,-11.02,-12.02,-11.35,-11.45,-10.60,-11.61,-11.53,-11.78,-11.77,-11.56
+Predicted emotion: Fun
+Correct emotion: Neutral
+----------------------------------------------------------------------
+558652000000000000,That's so cute
+
+Filtered: ['cute']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-3.08,-3.03,-3.04,-2.83,-2.75,-2.78,-3.02,-2.58,-3.08
+Predicted emotion: Fun
+Correct emotion: Happiness
+----------------------------------------------------------------------
+558668000000000000," thanks, Lauren!"
+
+Filtered: ['thank']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-2.73,-2.62,-2.78,-2.73,-3.04,-3.13,-3.05,-3.08,-3.02,-2.76,-3.08
+Predicted emotion: Neutral
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+558828000000000000,Walked through the baby clothes in Toys 'R Us. Whyyyyy did I do it?!?! 
+
+Filtered: ['walk', 'babi', 'cloth', 'toy', 'r', 'us']
+Words not found:[]
+Emotion probabilities: -17.99,-17.91,-18.16,-17.70,-16.19,-17.90,-17.93,-17.86,-18.02,-18.16,-17.82,-18.37,-17.60
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+558829000000000000,"They fancy  I just found out ""the Hawks are the best team in the league"" who the hell knew?"
+
+Filtered: ['fanci', 'found', 'hawk', 'best', 'team', 'leagu', 'hell', 'knew']
+Words not found:[]
+Emotion probabilities: -23.99,-24.28,-24.22,-24.20,-24.33,-24.26,-24.30,-24.11,-24.43,-24.62,-24.16,-24.19,-22.09
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+558830000000000000,Trying to balance everything is exhausting. Bleh.
+
+Filtered: ['tri', 'balanc', 'everyth', 'exhaust']
+Words not found:[]
+Emotion probabilities: -11.99,-12.14,-12.11,-12.10,-12.02,-11.23,-12.15,-12.51,-12.22,-10.93,-12.08,-12.25,-11.86
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+559016000000000000, lol!!! I know. The stuff was sooo cute haha
+
+Filtered: ['know', 'stuff', 'cute']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-8.78,-8.52,-8.76,-9.10,-8.81,-8.48,-8.38,-8.93,-8.58,-7.93,-8.95
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+559149000000000000,Mercury doin the Shmoney dance
+
+Filtered: ['mercuri', 'danc']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-5.75,-6.20,-6.16,-6.07,-6.08,-6.25,-6.11,-6.15,-6.04,-6.12,-5.57
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+559398000000000000, congratulations on #dopemovie!!!
+
+Filtered: ['congratul']
+Words not found:[]
+Emotion probabilities: -3.00,-2.73,-3.03,-3.10,-3.08,-2.73,-3.04,-2.83,-3.05,-3.08,-3.02,-3.06,-3.08
+Predicted emotion: Fun
+Correct emotion: Sadness
+----------------------------------------------------------------------
+559407000000000000, myFitness Pal
+
+Filtered: ['pal']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-3.08,-3.03,-2.74,-3.13,-3.05,-3.08,-3.02,-3.06,-3.08
+Predicted emotion: Fun
+Correct emotion: Love
+----------------------------------------------------------------------
+559812000000000000, This makes me beam. Uzo Aduba reacting to her name being announced for the SAG Award. 
+
+Filtered: ['make', 'beam', 'react', 'name', 'announc', 'sag', 'award']
+Words not found:[]
+Emotion probabilities: -20.99,-20.95,-21.19,-19.42,-21.08,-21.23,-21.26,-21.19,-21.38,-21.54,-20.84,-21.43,-20.69
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+560633000000000000,Cookie and Lucious gonna fuck or nah?
+
+Filtered: ['cooki', 'fuck']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-5.90,-5.68,-6.07,-5.47,-6.25,-5.81,-6.15,-6.04,-6.12,-5.87
+Predicted emotion: Worry
+Correct emotion: Love
+----------------------------------------------------------------------
+560947000000000000, This is where he should've gotten his Oscar RT  
+
+Filtered: ['gotten', 'rt']
+Words not found:[]
+Emotion probabilities: -6.00,-5.77,-6.05,-5.90,-5.38,-6.07,-6.08,-5.65,-6.11,-6.15,-6.04,-5.82,-6.17
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+561241000000000000,Whyyyy am I at this office right now?
+
+Filtered: ['offic', 'right']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-5.42,-6.16,-6.07,-5.60,-5.65,-6.11,-5.85,-6.04,-6.12,-5.57
+Predicted emotion: Neutral
+Correct emotion: Fun
+----------------------------------------------------------------------
+561243000000000000,"I like ""I Bet"" by Ciara. BUT, she spoke gospel on ""My Love."""
+
+Filtered: ['like', 'bet', 'spoke', 'gospel', 'love']
+Words not found:[]
+Emotion probabilities: -14.99,-14.27,-14.66,-14.12,-14.79,-14.86,-14.41,-13.35,-14.07,-14.69,-14.62,-14.53,-14.64
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+561591000000000000,People absolutely have to chill 
+
+Filtered: ['peopl', 'absolut', 'chill']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-8.40,-8.94,-9.10,-8.64,-8.30,-8.69,-8.75,-9.06,-8.71,-8.65
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+561963000000000000,I've always thought she handled Whitney's passing relatively well. I know if I were in her situation I would STILL be an absolute wreck.
+
+Filtered: ['alway', 'thought', 'handl', 'pass', 'relat', 'well', 'know', 'situat', 'would', 'still', 'absolut', 'wreck']
+Words not found:[]
+Emotion probabilities: -35.68,-35.17,-35.43,-35.34,-35.87,-36.10,-35.55,-35.54,-35.87,-36.02,-35.46,-35.06,-32.92
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+561964000000000000,I'm also sad for Bobby Brown.
+
+Filtered: ['also', 'sad', 'bobbi', 'brown']
+Words not found:[]
+Emotion probabilities: -11.99,-11.54,-11.81,-11.50,-12.02,-12.13,-12.15,-12.21,-11.61,-12.01,-12.08,-11.95,-10.96
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+562019000000000000, Thank you @JeniferLewis for helping to get @BetteMidler to see me. Hi Bette!!! 👋👋👋 
+
+Filtered: ['thank', 'help', 'get', 'see', 'hi']
+Words not found:[]
+Emotion probabilities: -14.99,-14.88,-14.84,-13.85,-14.49,-13.48,-14.59,-15.03,-14.57,-14.91,-14.50,-13.93,-14.64
+Predicted emotion: Neutral
+Correct emotion: Surprise
+----------------------------------------------------------------------
+562021000000000000, Buju Bane-ton? 
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Hate
+----------------------------------------------------------------------
+562022000000000000, she's so cute!
+
+Filtered: ['cute']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-3.08,-3.03,-3.04,-2.83,-2.75,-2.78,-3.02,-2.58,-3.08
+Predicted emotion: Fun
+Correct emotion: Hate
+----------------------------------------------------------------------
+562028000000000000," Idina gotta sneak at least one ""let it go"" into the anthem"
+
+Filtered: ['got', 'ta', 'sneak', 'least', 'one', 'let', 'go', 'anthem']
+Words not found:[]
+Emotion probabilities: -23.99,-23.68,-24.22,-22.22,-22.95,-22.88,-24.00,-23.51,-23.53,-23.71,-23.86,-23.89,-22.82
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+562044000000000000,Where are the funny commercials???
+
+Filtered: ['funni', 'commerci']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-6.20,-5.56,-6.07,-6.08,-5.95,-6.11,-6.15,-5.74,-6.12,-6.17
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+562045000000000000,Still fuckin Vin Diesel easily 72 years old
+
+Filtered: ['still', 'diesel', 'easili', 'year', 'old']
+Words not found:[]
+Emotion probabilities: -14.99,-13.92,-14.84,-14.90,-15.40,-15.17,-14.89,-13.78,-15.27,-14.78,-14.20,-14.71,-14.47
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+562062000000000000, Super Bowl lol
+
+Filtered: ['super', 'bowl']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-6.20,-6.16,-6.07,-5.30,-6.25,-6.11,-6.15,-6.04,-6.12,-6.17
+Predicted emotion: Love
+Correct emotion: Love
+----------------------------------------------------------------------
+562067000000000000,The two racist white ladies
+
+Filtered: ['two', 'racist', 'white', 'ladi']
+Words not found:[]
+Emotion probabilities: -11.99,-12.14,-11.81,-12.10,-12.32,-12.13,-12.15,-10.95,-12.22,-12.31,-12.08,-11.95,-11.73
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+562071000000000000, Whoever approved these commercials needs to lose their job bc they are terrible!
+
+Filtered: ['whoever', 'approv', 'commerci', 'need', 'lose', 'job', 'terribl']
+Words not found:[]
+Emotion probabilities: -20.69,-21.25,-20.89,-21.10,-20.95,-20.93,-20.57,-19.00,-21.08,-21.24,-20.84,-21.13,-20.51
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+562073000000000000, When ur girl googles a sports fact ur 100% sure about  Caption This  
+
+Filtered: ['girl', 'sport', 'fact', 'sure', 'caption']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-14.84,-15.50,-15.40,-14.86,-14.89,-13.95,-14.97,-14.61,-15.10,-15.31,-14.82
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+562075000000000000, Bud Light: We Make Your Nightmares Come True.
+
+Filtered: ['bud', 'light', 'make', 'nightmar', 'come', 'true']
+Words not found:[]
+Emotion probabilities: -17.99,-18.21,-18.16,-18.00,-16.49,-18.20,-18.23,-17.58,-17.85,-18.46,-17.52,-18.37,-17.30
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+562091000000000000, It's okay America. You still have these Hawks.
+
+Filtered: ['okay', 'still', 'hawk']
+Words not found:[]
+Emotion probabilities: -9.00,-8.63,-8.78,-9.00,-9.24,-9.10,-9.11,-8.90,-9.16,-8.93,-8.76,-8.88,-8.00
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+562252000000000000,If you live in Atlanta (I wouldn't know about the list for other cities) sign up for eventbrites monthly calendar
+
+Filtered: ['live', 'would', 'know', 'list', 'citi', 'sign', 'month', 'calendar']
+Words not found:[]
+Emotion probabilities: -23.99,-23.03,-23.92,-24.02,-24.16,-23.96,-23.70,-23.81,-23.96,-24.32,-23.68,-21.61,-23.77
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+562439000000000000, That Meek and Nicki pic is hurting some hearts out here? 
+
+Filtered: ['meek', 'hurt', 'heart']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-9.30,-9.24,-9.10,-9.11,-8.48,-9.16,-9.23,-9.06,-9.19,-9.25
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+563020000000000000,"I would really like to be at home possibly crying, yet being productive at the same time. But, the world needs me."
+
+Filtered: ['would', 'realli', 'like', 'home', 'possibl', 'cri', 'yet', 'product', 'time', 'world', 'need']
+Words not found:[]
+Emotion probabilities: -32.68,-32.31,-31.57,-32.12,-32.49,-32.16,-29.35,-31.69,-32.09,-32.07,-32.44,-32.00,-31.47
+Predicted emotion: Love
+Correct emotion: Love
+----------------------------------------------------------------------
+563022000000000000,I do!!!  you need a hug
+
+Filtered: ['need', 'hug']
+Words not found:[]
+Emotion probabilities: -5.70,-6.07,-5.75,-5.90,-5.68,-5.77,-5.08,-5.65,-5.81,-5.85,-6.04,-5.82,-5.69
+Predicted emotion: Love
+Correct emotion: Love
+----------------------------------------------------------------------
+563023000000000000, this represents my hug back to you haha
+
+Filtered: ['repres', 'hug', 'back']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-9.00,-8.16,-8.80,-8.81,-8.90,-9.16,-8.93,-9.06,-8.88,-9.25
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+563024000000000000, lol
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Fun
+----------------------------------------------------------------------
+563120000000000000,And this lady in here is about to turn up
+
+Filtered: ['ladi', 'turn']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-5.45,-5.72,-6.16,-6.07,-6.08,-5.48,-5.81,-6.15,-6.04,-6.12,-5.57
+Predicted emotion: Fun
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+563195000000000000,  Copped 
+
+Filtered: ['cop']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-3.08,-3.03,-3.04,-2.83,-2.75,-3.08,-3.02,-2.76,-3.08
+Predicted emotion: Fun
+Correct emotion: Relief
+----------------------------------------------------------------------
+563512000000000000, Unpacking Blackness in México. . #BlackHistory #AfroMexican 
+
+Filtered: ['unpack', 'black']
+Words not found:[]
+Emotion probabilities: -6.00,-5.77,-6.05,-5.50,-6.16,-6.07,-5.17,-5.78,-5.51,-5.85,-6.04,-6.12,-6.17
+Predicted emotion: Neutral
+Correct emotion: Love
+----------------------------------------------------------------------
+563925000000000000,Tirrrrred. Great day.
+
+Filtered: ['great', 'day']
+Words not found:[]
+Emotion probabilities: -6.00,-5.59,-5.75,-5.72,-5.86,-6.07,-5.30,-5.95,-5.81,-5.15,-6.04,-5.52,-5.69
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+564131000000000000,"If you have to open any Vine link I tweet, make it this one. "
+
+Filtered: ['open', 'vine', 'link', 'tweet', 'make']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-14.84,-15.20,-14.92,-15.17,-15.19,-13.73,-14.97,-15.39,-14.80,-15.01,-14.52
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+564132000000000000, it's very pretty
+
+Filtered: ['pretti']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-2.80,-3.08,-2.73,-3.04,-3.13,-3.05,-3.08,-3.02,-2.76,-3.08
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+564133000000000000," yes, yes. I love Bob!"
+
+Filtered: ['yes', 'love', 'bob']
+Words not found:[]
+Emotion probabilities: -9.00,-8.81,-9.08,-8.70,-9.24,-9.10,-8.81,-8.60,-7.78,-9.23,-9.06,-8.71,-9.25
+Predicted emotion: Hate
+Correct emotion: Hate
+----------------------------------------------------------------------
+564159000000000000,How is Nas still fine?
+
+Filtered: ['still', 'fine']
+Words not found:[]
+Emotion probabilities: -6.00,-5.59,-5.75,-5.90,-6.16,-6.07,-5.77,-5.48,-6.11,-5.55,-5.74,-5.52,-5.69
+Predicted emotion: Fun
+Correct emotion: Happiness
+----------------------------------------------------------------------
+564204000000000000, Awww this is nice. A Papp probably fell or something lololol
+
+Filtered: ['nice', 'probabl', 'fell', 'someth']
+Words not found:[]
+Emotion probabilities: -11.99,-11.84,-12.11,-11.80,-12.02,-12.13,-12.15,-12.51,-12.22,-11.10,-12.08,-11.65,-12.34
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+564250000000000000," fam tell me you've seen this plz
+
+Filtered: ['tell', 'seen']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-6.20,-5.38,-6.07,-6.08,-5.65,-6.11,-5.85,-6.04,-6.12,-5.87
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+"
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Fun
+----------------------------------------------------------------------
+564580000000000000, Applied for a job and got this email back 
+
+Filtered: ['appli', 'job', 'got', 'email', 'back']
+Words not found:[]
+Emotion probabilities: -14.99,-14.88,-15.14,-14.90,-14.49,-14.56,-14.89,-13.35,-15.27,-14.78,-15.10,-14.71,-14.64
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+564626000000000000,taylor swifts dress though 
+
+Filtered: ['swift', 'dress', 'though']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-8.18,-9.30,-8.94,-9.10,-9.11,-9.38,-8.86,-9.23,-9.06,-8.88,-8.95
+Predicted emotion: Enthusiasm
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+564628000000000000, #igetbeggin. Best part of #thegrammys
+
+Filtered: ['best', 'part']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-6.20,-5.56,-6.07,-6.08,-5.65,-6.11,-6.15,-6.04,-5.82,-5.87
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+564638000000000000, Jay running the gauntlet of emotions when Kanye got up on stage 
+
+Filtered: ['jay', 'run', 'gauntlet', 'emot', 'got', 'stage']
+Words not found:[]
+Emotion probabilities: -17.99,-17.91,-17.86,-18.30,-17.87,-17.90,-17.93,-16.65,-18.33,-17.86,-18.12,-17.77,-17.43
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+564640000000000000, props to the #grammys for putting #ASAPYams on that # InMemoriam screen.
+
+Filtered: ['prop', 'put', 'screen']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-9.30,-9.24,-9.10,-9.11,-9.38,-9.16,-8.15,-9.06,-9.19,-8.95
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+564642000000000000,Too bad Ledisi isn't gonna sing the song SHE sang on the #Selma soundtrack. 
+
+Filtered: ['bad', 'sing', 'song', 'sang', 'soundtrack']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-15.14,-15.20,-15.09,-15.17,-15.19,-15.03,-13.59,-15.08,-15.10,-15.01,-15.42
+Predicted emotion: Hate
+Correct emotion: Hate
+----------------------------------------------------------------------
+564643000000000000, Third #BlackLivesMatter sighting at the GRAMMMYs with Beyonce performance. 
+
+Filtered: ['third', 'sight', 'perform']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-9.30,-9.24,-9.10,-9.11,-8.48,-9.16,-9.23,-9.06,-9.19,-9.25
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+564840000000000000,Already a fan of 
+
+Filtered: ['alreadi', 'fan']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-6.20,-6.16,-6.07,-6.08,-5.95,-6.11,-6.15,-6.04,-5.17,-6.17
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+564956000000000000,NO NO NO. NOPE. NOT HAPPENING. 
+
+Filtered: ['nope', 'happen']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-5.75,-5.90,-6.16,-6.07,-5.77,-5.95,-6.11,-6.15,-6.04,-5.82,-5.57
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+564957000000000000,"Anchorage, I need you to find every bit of chill you can. Smfh"
+
+Filtered: ['anchorag', 'need', 'find', 'everi', 'bit', 'chill']
+Words not found:[]
+Emotion probabilities: -17.69,-18.21,-17.56,-17.04,-18.48,-17.90,-17.53,-16.30,-18.02,-18.16,-18.12,-18.37,-17.43
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+564970000000000000,Lol I like Sky
+
+Filtered: ['like', 'sky']
+Words not found:[]
+Emotion probabilities: -6.00,-5.47,-5.58,-5.42,-5.56,-5.77,-5.60,-5.05,-5.51,-5.46,-5.56,-5.82,-5.39
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+564976000000000000,Where's Max???
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Anger
+----------------------------------------------------------------------
+565332000000000000, This made me laugh myself to sleep last night. 
+
+Filtered: ['made', 'laugh', 'sleep', 'last', 'night']
+Words not found:[]
+Emotion probabilities: -14.99,-14.88,-15.14,-14.72,-15.40,-15.17,-14.89,-13.95,-14.97,-15.39,-15.10,-14.71,-14.94
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+565564000000000000,"""Jesus Christ had dreads; so, shake 'em"""
+
+Filtered: ['dread', 'shake']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-5.72,-6.16,-6.07,-6.08,-6.25,-6.11,-6.15,-6.04,-6.12,-5.57
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+565565000000000000,This DJ is from Cali. No doubts about it.
+
+Filtered: ['doubt']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-2.80,-3.08,-3.03,-3.04,-3.13,-3.05,-3.08,-3.02,-3.06,-3.08
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+565574000000000000,Public melt downs are the worse.
+
+Filtered: ['public', 'melt', 'down', 'wors']
+Words not found:[]
+Emotion probabilities: -11.99,-12.14,-12.11,-12.40,-11.11,-12.13,-12.15,-12.21,-11.92,-12.31,-12.08,-12.25,-12.34
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+565662000000000000,That pic is hilarious
+
+Filtered: ['hilari']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-3.08,-3.03,-3.04,-3.13,-3.05,-2.78,-3.02,-3.06,-3.08
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+566297000000000000,� I support this 100%
+
+Filtered: ['support']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-3.08,-3.03,-3.04,-2.83,-3.05,-3.08,-3.02,-3.06,-3.08
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+566298000000000000,I've been calling/emailing customer service offices so much lately. I turn into Wanda more and more each day.
+
+Filtered: ['custom', 'servic', 'offic', 'much', 'late', 'turn', 'day']
+Words not found:[]
+Emotion probabilities: -20.99,-20.47,-20.29,-20.27,-20.95,-21.23,-20.49,-20.81,-20.78,-20.84,-21.14,-21.13,-18.95
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+566301000000000000,My favorite thing right now is to see a pic of chunky baby legs with baby sneakers on.
+
+Filtered: ['thing', 'right', 'see', 'chunki', 'babi', 'leg']
+Words not found:[]
+Emotion probabilities: -17.99,-18.21,-18.16,-17.22,-17.87,-17.72,-16.07,-17.86,-18.33,-17.86,-17.52,-17.47,-17.43
+Predicted emotion: Love
+Correct emotion: Love
+----------------------------------------------------------------------
+566351000000000000,If u dont have this type of love dont even attempt to celebrate Valentine's Day 
+
+Filtered: ['type', 'love', 'even', 'attempt', 'celebr', 'valentin', 'day']
+Words not found:[]
+Emotion probabilities: -20.99,-18.96,-20.89,-20.32,-20.95,-21.23,-20.19,-20.98,-20.48,-20.84,-20.24,-20.35,-20.81
+Predicted emotion: Sadness
+Correct emotion: Sadness
+----------------------------------------------------------------------
+566441000000000000, Fucking disgusting.  IS THIS A JOKE........... 
+
+Filtered: ['fuck', 'disgust', 'joke']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-9.00,-8.76,-9.10,-8.81,-9.38,-8.86,-9.23,-9.06,-9.19,-8.35
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+566648000000000000,The wife is crafty
+
+Filtered: ['wife', 'crafti']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-5.90,-6.16,-6.07,-6.08,-5.48,-6.11,-6.15,-6.04,-6.12,-6.17
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+566651000000000000,If you find somebody that you dont mind when they reach across the table n eat food off your plate...lock that shit down
+
+Filtered: ['find', 'somebodi', 'mind', 'reach', 'across', 'tabl', 'n', 'eat', 'food', 'plate', 'lock', 'shit']
+Words not found:[]
+Emotion probabilities: -35.98,-36.12,-36.03,-33.06,-36.47,-35.92,-36.45,-36.27,-35.87,-35.42,-35.64,-36.44,-36.11
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+566658000000000000," then THIS catapulted onto my TL 
+
+Filtered: ['catapult', 'onto']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-6.20,-6.16,-6.07,-6.08,-5.65,-6.11,-6.15,-6.04,-6.12,-6.17
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+"
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Anger
+----------------------------------------------------------------------
+566697000000000000,Phone's at 10% 
+
+Filtered: ['phone']
+Words not found:[]
+Emotion probabilities: -3.00,-2.73,-2.73,-3.10,-3.08,-3.03,-3.04,-2.83,-3.05,-3.08,-3.02,-3.06,-2.78
+Predicted emotion: Fun
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+566718000000000000, Well shit I did try. Maybe you're right.. I'm just to old to get it. You cool tho?
+
+Filtered: ['well', 'shit', 'tri', 'mayb', 'old', 'get', 'cool']
+Words not found:[]
+Emotion probabilities: -20.69,-20.34,-21.19,-19.92,-20.17,-20.03,-20.96,-20.81,-20.20,-18.60,-20.24,-20.05,-20.21
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+567096000000000000, too much sugar?
+
+Filtered: ['much', 'sugar']
+Words not found:[]
+Emotion probabilities: -6.00,-5.77,-5.75,-6.20,-5.86,-6.07,-5.77,-6.25,-6.11,-6.15,-6.04,-6.12,-5.39
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+567441000000000000, Amber Rose spoke on the real problem... So called men abandoning they kids n fiancée to be on some child predator shit
+
+Filtered: ['amber', 'rose', 'spoke', 'real', 'problem', 'call', 'men', 'abandon', 'kid', 'n', 'child', 'predat', 'shit']
+Words not found:[]
+Emotion probabilities: -38.98,-39.16,-39.05,-38.57,-39.08,-38.95,-39.19,-35.68,-38.93,-38.80,-38.96,-39.20,-39.79
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+567492000000000000, yes! So cute
+
+Filtered: ['yes', 'cute']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-6.20,-6.16,-6.07,-6.08,-5.48,-5.33,-5.85,-6.04,-5.65,-6.17
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+567540000000000000," And The Bugged Part? @QuincyDJones Was Her A&amp;R.  Lesley Gore, Teenage Voice of Heartbreak, Dies at 68 "
+
+Filtered: ['bug', 'part', 'amp', 'gore', 'teenag', 'voic', 'heartbreak', 'die']
+Words not found:[]
+Emotion probabilities: -23.99,-24.28,-24.22,-24.02,-21.83,-24.26,-24.30,-23.81,-24.13,-24.01,-24.16,-23.72,-24.37
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+567711000000000000," ""Your resume is nice but..."" BUT NOTHING YOU READ THE SHIT BEFORE THE INTERV"
+
+Filtered: ['resum', 'nice', 'noth', 'read', 'shit']
+Words not found:[]
+Emotion probabilities: -14.99,-13.67,-15.14,-14.42,-14.92,-15.17,-15.19,-15.16,-14.49,-14.48,-14.80,-15.01,-14.82
+Predicted emotion: Sadness
+Correct emotion: Sadness
+----------------------------------------------------------------------
+567725000000000000," lol like the new lieberry, kindygarden, and what else? "
+
+Filtered: ['like', 'new', 'els']
+Words not found:[]
+Emotion probabilities: -9.00,-8.20,-8.00,-8.52,-8.33,-8.80,-8.64,-8.18,-8.26,-8.23,-8.58,-8.41,-8.47
+Predicted emotion: Fun
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+567745000000000000,I'm just here. In this office.
+
+Filtered: ['offic']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-2.62,-3.08,-3.03,-3.04,-2.83,-3.05,-3.08,-3.02,-3.06,-2.78
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+567769000000000000, you're back! I was hoping you were cool
+
+Filtered: ['back', 'hope', 'cool']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-8.70,-8.64,-8.80,-9.11,-8.90,-9.16,-8.15,-9.06,-8.88,-9.25
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+567789000000000000,You ever hear people talk an insane amount of shit and wonder how they talk about you when you're not there? Yeah...
+
+Filtered: ['ever', 'hear', 'peopl', 'talk', 'insan', 'amount', 'shit', 'wonder', 'yeah']
+Words not found:[]
+Emotion probabilities: -26.99,-27.02,-27.25,-26.52,-26.93,-27.00,-26.56,-27.06,-26.53,-24.33,-26.88,-26.78,-26.85
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+567897000000000000, Universe. You know what I want. Work that shit out.
+
+Filtered: ['univers', 'know', 'want', 'work', 'shit']
+Words not found:[]
+Emotion probabilities: -14.99,-14.88,-14.84,-14.07,-14.44,-15.17,-14.89,-13.25,-14.02,-14.48,-13.72,-14.35,-14.52
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+568076000000000000,"So, Quincy says he was supposed to play Hakeem on ""Empire"" and I low key feel like that role was written for him."
+
+Filtered: ['say', 'suppos', 'play', 'empir', 'low', 'key', 'feel', 'like', 'role', 'written']
+Words not found:[]
+Emotion probabilities: -29.99,-29.28,-29.80,-29.32,-29.89,-29.73,-29.30,-26.91,-29.94,-29.77,-29.72,-30.32,-29.76
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+568118000000000000,"Today in 2004, Kanye West owns Billboard, The College Dropout debuts #2, ""Slow Jamz"" is #5 single, the ROC is on fire "
+
+Filtered: ['today', 'west', 'own', 'billboard', 'colleg', 'slow', 'singl', 'fire']
+Words not found:[]
+Emotion probabilities: -23.99,-23.98,-23.92,-24.50,-24.33,-24.26,-24.30,-24.24,-24.13,-21.91,-23.86,-24.49,-24.07
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+568120000000000000,SELFIE WITH THE MAILMAN FOR NOT BRINGING ME NO BILLS TODAY 
+
+Filtered: ['bring', 'bill', 'today']
+Words not found:[]
+Emotion probabilities: -9.00,-8.81,-9.08,-9.00,-8.94,-9.10,-9.11,-8.30,-8.86,-8.63,-9.06,-9.19,-8.95
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+568218000000000000,"""You wanna order your hot comb?"" ""...It's a flat iron."" "
+
+Filtered: ['wan', 'order', 'hot', 'comb', 'flat', 'iron']
+Words not found:[]
+Emotion probabilities: -17.99,-18.21,-17.86,-18.30,-18.48,-18.20,-17.93,-18.46,-18.02,-17.98,-18.12,-16.56,-18.51
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+568609000000000000,I'm confused 
+
+Filtered: ['confus']
+Words not found:[]
+Emotion probabilities: -3.00,-2.73,-3.03,-2.80,-3.08,-3.03,-3.04,-3.13,-3.05,-2.78,-3.02,-3.06,-3.08
+Predicted emotion: Neutral
+Correct emotion: Happiness
+----------------------------------------------------------------------
+568887000000000000," Amber Rose is getting attacked by Exes, their extended family, Kardashians, their friends &amp; media...for truth telling &amp;"
+
+Filtered: ['amber', 'rose', 'get', 'attack', 'extend', 'famili', 'friend', 'amp', 'media', 'truth', 'tell']
+Words not found:[]
+Emotion probabilities: -32.99,-33.09,-33.30,-32.92,-31.79,-33.06,-33.12,-30.08,-32.12,-32.17,-32.92,-32.60,-32.55
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+569204000000000000,Supposed to be studying Excel. No.
+
+Filtered: ['suppos', 'studi', 'excel']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-9.30,-9.24,-9.10,-9.11,-9.08,-9.16,-8.33,-9.06,-9.19,-8.95
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+569591000000000000,*Rick James ep of #ChappelleShow*
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Fun
+----------------------------------------------------------------------
+569912000000000000," Free pancakes at IHOP, free doughnut at Krispy Kreme, free coffee at Chick-fil-A, &amp;more "
+
+Filtered: ['free', 'pancak', 'doughnut', 'coffe', 'amp']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-15.14,-14.72,-13.32,-15.17,-15.19,-14.73,-15.27,-14.78,-15.10,-15.01,-15.12
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+569913000000000000, omfg! Lisa Bonet makes rare public appearance with daughter Zoe Kravitz at the #VanityFairOscarParty! 
+
+Filtered: ['make', 'rare', 'public', 'appear', 'daughter']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-15.14,-14.90,-14.62,-15.17,-15.19,-13.73,-14.97,-15.39,-14.80,-15.31,-14.82
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+569947000000000000," OBAMA KEEPING PROMISES RT @YahooTech: Apple just showed off its new, diverse emoji   "
+
+Filtered: ['keep', 'promis', 'rt', 'appl', 'show', 'new', 'divers']
+Words not found:[]
+Emotion probabilities: -20.99,-20.65,-20.89,-20.92,-19.09,-21.23,-21.26,-21.29,-20.30,-21.06,-21.14,-20.65,-21.11
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+570640000000000000,"lol lowkey I thought this was early. But I was like she said its her bday, then it is haha"
+
+Filtered: ['thought', 'earli', 'like', 'said']
+Words not found:[]
+Emotion probabilities: -11.99,-11.24,-11.03,-11.14,-11.71,-11.83,-11.67,-10.70,-11.61,-11.31,-11.60,-11.95,-10.96
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+570641000000000000, yay!!! Congratulations! I'm trying to be on that same boat by Friday 
+
+Filtered: ['congratul', 'tri', 'boat']
+Words not found:[]
+Emotion probabilities: -9.00,-8.81,-9.08,-9.30,-8.94,-7.89,-9.11,-9.08,-9.16,-8.75,-9.06,-9.19,-8.78
+Predicted emotion: Surprise
+Correct emotion: Surprise
+----------------------------------------------------------------------
+570771000000000000, Lucius is such a shady name
+
+Filtered: ['shadi', 'name']
+Words not found:[]
+Emotion probabilities: -6.00,-5.47,-6.05,-5.90,-6.16,-6.07,-6.08,-6.25,-6.11,-6.15,-6.04,-6.12,-5.87
+Predicted emotion: Sadness
+Correct emotion: Sadness
+----------------------------------------------------------------------
+570776000000000000,  JAMAL IS GIVING YOU SMOOTH SHAHS OF SUNSET REALNESS. 
+
+Filtered: ['give', 'smooth', 'shah', 'sunset', 'real']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-14.84,-15.50,-15.40,-14.86,-14.89,-13.65,-14.97,-14.78,-15.10,-15.01,-15.42
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+570777000000000000,YASSSS JAMAL
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Neutral
+----------------------------------------------------------------------
+570780000000000000, lucious came to work the next day like... 
+
+Filtered: ['came', 'work', 'next', 'day', 'like']
+Words not found:[]
+Emotion probabilities: -14.99,-14.10,-14.36,-13.77,-14.19,-14.86,-14.23,-14.13,-13.77,-13.08,-14.32,-14.71,-14.17
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+570781000000000000,"Always, always Atlanta. #catfishmtv"
+
+Filtered: ['alway']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-2.48,-3.03,-2.74,-3.13,-3.05,-3.08,-3.02,-3.06,-2.48
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+570782000000000000, I'm going to Google with this lol
+
+Filtered: ['go']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-2.62,-2.60,-2.56,-3.04,-2.52,-2.75,-2.78,-2.72,-3.06,-2.31
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+570783000000000000,Questions that need answers.
+
+Filtered: ['question', 'need', 'answer']
+Words not found:[]
+Emotion probabilities: -8.70,-9.11,-8.18,-9.00,-8.94,-8.80,-8.41,-8.48,-8.86,-8.93,-9.06,-9.19,-8.17
+Predicted emotion: Anger
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+570793000000000000,She looks like Foxy Brown 
+
+Filtered: ['look', 'like', 'foxi', 'brown']
+Words not found:[]
+Emotion probabilities: -11.99,-10.34,-11.33,-10.72,-10.94,-11.83,-11.20,-11.30,-11.61,-11.13,-11.30,-11.34,-10.96
+Predicted emotion: Sadness
+Correct emotion: Sadness
+----------------------------------------------------------------------
+570794000000000000,"That looks like a nightmare. But, I know that's typical."
+
+Filtered: ['look', 'like', 'nightmar', 'know', 'typic']
+Words not found:[]
+Emotion probabilities: -14.99,-13.97,-14.06,-13.94,-13.54,-14.86,-13.93,-13.83,-14.19,-14.21,-13.24,-14.23,-14.04
+Predicted emotion: Worry
+Correct emotion: Boredom
+----------------------------------------------------------------------
+570796000000000000,"I didn't mean to type ""b,"" but it worked lol"
+
+Filtered: ['mean', 'type', 'b', 'work']
+Words not found:[]
+Emotion probabilities: -11.99,-11.84,-12.11,-12.40,-11.71,-12.13,-12.15,-12.21,-12.22,-12.01,-10.88,-12.25,-12.34
+Predicted emotion: Boredom
+Correct emotion: Boredom
+----------------------------------------------------------------------
+570800000000000000,"I still want to know how Brittney on ""The Game"" went from 10 years old to 18."
+
+Filtered: ['still', 'want', 'know', 'game', 'went', 'year', 'old']
+Words not found:[]
+Emotion probabilities: -20.99,-19.99,-20.29,-19.84,-21.08,-21.23,-20.66,-19.33,-20.90,-20.94,-18.86,-19.88,-20.03
+Predicted emotion: Fun
+Correct emotion: Boredom
+----------------------------------------------------------------------
+571370000000000000,Attempting to write this script and it's certainly not my forte. A LOT of brainstorming is necessary.
+
+Filtered: ['attempt', 'write', 'script', 'certain', 'fort', 'lot', 'brainstorm', 'necessari']
+Words not found:[]
+Emotion probabilities: -23.99,-23.98,-24.22,-24.80,-24.03,-24.26,-24.30,-24.41,-24.43,-24.62,-21.75,-24.49,-24.67
+Predicted emotion: Boredom
+Correct emotion: Boredom
+----------------------------------------------------------------------
+571524000000000000,"""Oh, I see I gotta give you a pep talk."" "
+
+Filtered: ['oh', 'see', 'got', 'ta', 'give', 'pep', 'talk']
+Words not found:[]
+Emotion probabilities: -20.99,-20.65,-20.89,-20.32,-20.95,-18.95,-20.66,-20.68,-21.38,-19.68,-20.84,-20.23,-19.73
+Predicted emotion: Surprise
+Correct emotion: Surprise
+----------------------------------------------------------------------
+571528000000000000,I thought that was the Promenade Pimp
+
+Filtered: ['thought', 'promenad', 'pimp']
+Words not found:[]
+Emotion probabilities: -9.00,-8.81,-8.18,-8.82,-9.24,-9.10,-9.11,-9.08,-9.16,-9.23,-9.06,-9.19,-8.95
+Predicted emotion: Enthusiasm
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+571860000000000000, Nah little boy was sanging and you can't tell me otherwise  
+
+Filtered: ['littl', 'boy', 'tell', 'otherwis']
+Words not found:[]
+Emotion probabilities: -11.99,-12.14,-12.11,-12.40,-11.84,-12.13,-12.15,-11.91,-12.22,-11.40,-12.08,-12.25,-10.96
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+571929000000000000,RhemaAlexandra tried to put me on a gay nigga tonight; she's disrespectful
+
+Filtered: ['tri', 'put', 'gay', 'tonight', 'disrespect']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-15.14,-15.50,-15.09,-14.56,-15.19,-15.63,-15.27,-14.43,-15.10,-15.01,-13.74
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+572134000000000000," CAPS THAT SHIT ""!!!!!!!!!! !!!!!!!!!! !!!!!!!!!! Is Morris Day getting any of those Uptown"
+
+Filtered: ['cap', 'shit', 'morri', 'day', 'get', 'uptown']
+Words not found:[]
+Emotion probabilities: -17.99,-17.13,-17.86,-16.95,-17.09,-17.90,-17.45,-17.68,-16.85,-15.78,-17.52,-17.59,-17.43
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+572173000000000000, my brother and his wife climbed to the top of a mountain at 2:00 am to see the northern lights over Anchorage. 
+
+Filtered: ['brother', 'wife', 'climb', 'top', 'mountain', 'see', 'northern', 'light', 'anchorag']
+Words not found:[]
+Emotion probabilities: -26.99,-27.32,-27.25,-25.01,-27.41,-26.82,-27.04,-27.36,-27.49,-27.69,-26.88,-26.95,-26.98
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+572549000000000000,And very sad.
+
+Filtered: ['sad']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-3.08,-3.03,-3.04,-3.13,-2.75,-2.78,-3.02,-3.06,-2.78
+Predicted emotion: Anger
+Correct emotion: Hate
+----------------------------------------------------------------------
+572559000000000000,Are there greens too?  Grandma made some hot water corn bread I can't turn that down.
+
+Filtered: ['green', 'grandma', 'made', 'hot', 'water', 'corn', 'bread', 'turn']
+Words not found:[]
+Emotion probabilities: -23.99,-23.98,-23.92,-22.04,-24.63,-23.96,-24.00,-24.24,-24.13,-24.32,-24.16,-23.89,-24.37
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+572560000000000000, ALL DAY 
+
+Filtered: ['day']
+Words not found:[]
+Emotion probabilities: -3.00,-2.56,-2.73,-2.62,-2.78,-3.03,-2.56,-2.83,-2.75,-2.38,-3.02,-2.76,-2.61
+Predicted emotion: Happiness
+Correct emotion: Love
+----------------------------------------------------------------------
+572565000000000000,That commercial grinds my gears. 
+
+Filtered: ['commerci', 'grind', 'gear']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-9.30,-8.94,-9.10,-9.11,-9.08,-9.16,-9.23,-8.16,-9.19,-9.25
+Predicted emotion: Boredom
+Correct emotion: Boredom
+----------------------------------------------------------------------
+572566000000000000,"It took Charlie Murphy to tell this dirtbag to go get his family. Obviously scripted, I know."
+
+Filtered: ['took', 'tell', 'go', 'get', 'famili', 'obvious', 'script', 'know']
+Words not found:[]
+Emotion probabilities: -23.99,-23.98,-23.92,-23.15,-21.40,-23.49,-23.70,-22.91,-22.48,-23.54,-22.78,-23.24,-22.99
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+572567000000000000,"""Walk of Shame Shuttle"" = watered down ""Taxicab Confessions,"" I'm guessing."
+
+Filtered: ['walk', 'shame', 'shuttl', 'water', 'taxicab', 'confess', 'guess']
+Words not found:[]
+Emotion probabilities: -20.99,-21.25,-21.19,-21.10,-21.25,-19.12,-20.96,-21.59,-21.08,-21.24,-21.14,-21.43,-21.29
+Predicted emotion: Surprise
+Correct emotion: Surprise
+----------------------------------------------------------------------
+572570000000000000,"""I just wanna be to myself for a moment and, like, not with you."" "
+
+Filtered: ['wan', 'moment', 'like']
+Words not found:[]
+Emotion probabilities: -9.00,-8.50,-8.30,-8.52,-8.64,-8.80,-8.34,-7.88,-8.26,-7.75,-8.58,-8.58,-8.47
+Predicted emotion: Fun
+Correct emotion: Happiness
+----------------------------------------------------------------------
+572576000000000000," Forgetting your clothes, I can excuse. Forgetting that shoes aren't edible, I cannot. "
+
+Filtered: ['forget', 'cloth', 'excus', 'shoe', 'edibl']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-15.14,-15.20,-15.09,-15.17,-15.19,-14.13,-15.27,-15.39,-15.10,-15.31,-15.42
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+572577000000000000,"Kimbella, go away."
+
+Filtered: ['go', 'away']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-5.42,-5.68,-5.59,-6.08,-5.35,-5.51,-5.55,-5.74,-6.12,-5.09
+Predicted emotion: Anger
+Correct emotion: Fun
+----------------------------------------------------------------------
+572652000000000000, thank you!
+
+Filtered: ['thank']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-2.73,-2.62,-2.78,-2.73,-3.04,-3.13,-3.05,-3.08,-3.02,-2.76,-3.08
+Predicted emotion: Neutral
+Correct emotion: Relief
+----------------------------------------------------------------------
+573153000000000000,"Groupon code, Spa Sydell, #ATL Street Food Fest, ATL Beer Carnival, movie tix, GA RenFest, Cellar 56 &amp;more "
+
+Filtered: ['code', 'spa', 'street', 'food', 'beer', 'carniv', 'cellar', 'amp']
+Words not found:[]
+Emotion probabilities: -23.99,-24.28,-24.22,-24.02,-23.93,-24.26,-24.30,-24.41,-24.43,-21.91,-23.86,-24.19,-24.37
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+573159000000000000,*I Hate His Bromance
+
+Filtered: ['hate']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-2.60,-3.03,-3.04,-2.83,-3.05,-3.08,-3.02,-3.06,-2.78
+Predicted emotion: Fun
+Correct emotion: Worry
+----------------------------------------------------------------------
+573229000000000000," There's also a couple positions for Digital a Media interns! Must be in 18 or older &amp; live in ATL. Stipend provided.
+
+Filtered: ['also', 'coupl', 'posit', 'digit', 'media', 'intern', 'must', 'older', 'amp', 'live', 'stipend', 'provid']
+Words not found:[]
+Emotion probabilities: -35.98,-35.65,-36.33,-36.42,-35.95,-36.10,-36.45,-33.43,-36.35,-35.72,-36.24,-36.14,-35.93
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Relief
+----------------------------------------------------------------------
+"
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Anger
+----------------------------------------------------------------------
+573256000000000000,No disrespect to their families...
+
+Filtered: ['disrespect', 'famili']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-6.20,-5.86,-6.07,-6.08,-5.95,-5.63,-6.15,-6.04,-5.52,-5.87
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+573257000000000000,"I've been avoiding baby showers like the plague. But, that's anotha story for anotha taaahme."
+
+Filtered: ['avoid', 'babi', 'shower', 'like', 'plagu', 'stori']
+Words not found:[]
+Emotion probabilities: -17.99,-17.61,-17.69,-16.02,-17.27,-17.90,-17.45,-17.56,-17.42,-17.46,-17.34,-18.07,-17.13
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+573258000000000000,"� no, no, no. But, in the meantime is baby trying to make an entrance?"
+
+Filtered: ['meantim', 'babi', 'tri', 'make', 'entranc']
+Words not found:[]
+Emotion probabilities: -14.69,-15.18,-15.14,-14.60,-13.41,-14.56,-14.89,-14.63,-15.27,-14.61,-14.50,-15.31,-14.04
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+573262000000000000,"oh, hey girl!!!"
+
+Filtered: ['oh', 'hey', 'girl']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-8.48,-9.00,-8.46,-8.80,-8.81,-8.90,-8.56,-7.67,-9.06,-8.88,-8.35
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+573273000000000000,just watched this like ten times. RT @Teezy_2Sleezy: After @karrueche heard about Chris Brown baby she was like.... 
+
+Filtered: ['watch', 'like', 'ten', 'time', 'rt', 'heard', 'brown', 'babi']
+Words not found:[]
+Emotion probabilities: -23.99,-23.08,-23.26,-21.31,-22.35,-23.66,-23.22,-22.61,-23.23,-23.14,-23.38,-23.29,-22.99
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+573353000000000000, Viola tho 😍 RT @deeepthot this was a cover from back in 2009. how dope is this????? #Empire #HowToGetAwayWithMurder htt…
+
+Filtered: ['viola', 'rt', 'cover', 'back', 'dope', 'empir']
+Words not found:[]
+Emotion probabilities: -17.99,-17.91,-18.16,-18.00,-17.70,-17.90,-18.23,-16.30,-18.33,-18.16,-18.12,-18.07,-18.20
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+573493000000000000,"if your girl texts u ""u wanna know whats crazy?"" just turn ya phone off u do not wanna know whats crazy my nigga"
+
+Filtered: ['girl', 'text', 'wan', 'know', 'crazi', 'turn', 'phone']
+Words not found:[]
+Emotion probabilities: -20.99,-20.47,-19.69,-20.75,-21.08,-21.23,-20.36,-19.13,-19.70,-20.28,-20.66,-20.65,-20.08
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+573666000000000000," Clarence would have been dead already, but I appreciate it."
+
+Filtered: ['would', 'dead', 'alreadi', 'appreci']
+Words not found:[]
+Emotion probabilities: -11.99,-11.66,-12.11,-12.10,-12.32,-12.13,-11.85,-12.51,-12.22,-12.31,-12.08,-10.21,-12.04
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+573670000000000000, Marcus is being played by the extraordinary 
+
+Filtered: ['play', 'extraordinari']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-5.90,-6.16,-5.46,-6.08,-5.78,-6.11,-6.15,-6.04,-6.12,-6.17
+Predicted emotion: Fun
+Correct emotion: Surprise
+----------------------------------------------------------------------
+573672000000000000, I don't think my black sensitivities can handle the direction of this episode.
+
+Filtered: ['think', 'black', 'sensit', 'handl', 'direct', 'episod']
+Words not found:[]
+Emotion probabilities: -17.69,-17.91,-17.86,-17.30,-18.48,-18.20,-17.62,-17.98,-17.72,-16.48,-18.12,-18.37,-17.90
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+573673000000000000,I don't know lol
+
+Filtered: ['know']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-2.73,-2.62,-2.60,-3.03,-2.74,-2.52,-2.58,-3.08,-2.54,-2.58,-2.78
+Predicted emotion: Fun
+Correct emotion: Neutral
+----------------------------------------------------------------------
+573674000000000000," ""Just get him to 18."" Thanks for this episode,"
+
+Filtered: ['get', 'thank', 'episod']
+Words not found:[]
+Emotion probabilities: -8.70,-8.81,-8.78,-7.82,-8.33,-8.50,-8.81,-8.78,-8.46,-8.45,-8.76,-8.41,-8.65
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+573675000000000000, Shonda better make this shit right. 22 minutes.
+
+Filtered: ['better', 'make', 'shit', 'right', 'minut']
+Words not found:[]
+Emotion probabilities: -14.99,-14.88,-15.14,-13.94,-14.44,-14.86,-14.71,-13.86,-14.49,-14.48,-14.20,-15.31,-13.44
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+573676000000000000,They're gonna put him on paid leave.
+
+Filtered: ['put', 'paid', 'leav']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-8.82,-9.24,-8.80,-9.11,-9.38,-9.16,-8.15,-9.06,-9.19,-8.95
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+573678000000000000,Who guessed??? I was right.
+
+Filtered: ['guess', 'right']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-5.90,-6.16,-5.77,-5.30,-5.95,-6.11,-5.85,-6.04,-6.12,-5.87
+Predicted emotion: Love
+Correct emotion: Love
+----------------------------------------------------------------------
+573679000000000000,"No, no, NOPE. My allergies, man."
+
+Filtered: ['nope', 'allergi', 'man']
+Words not found:[]
+Emotion probabilities: -9.00,-8.81,-9.08,-8.10,-9.24,-8.80,-8.81,-9.38,-9.16,-9.23,-9.06,-9.19,-8.95
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+573680000000000000,"I'm turning to ""Modern Family."" I need a laugh."
+
+Filtered: ['turn', 'modern', 'famili', 'need', 'laugh']
+Words not found:[]
+Emotion probabilities: -14.69,-14.88,-14.53,-14.72,-15.09,-14.86,-14.49,-13.95,-13.59,-15.08,-15.10,-15.01,-14.64
+Predicted emotion: Fun
+Correct emotion: Hate
+----------------------------------------------------------------------
+573681000000000000, GIRL.
+
+Filtered: ['girl']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-2.73,-3.10,-3.08,-3.03,-2.74,-2.65,-2.75,-2.60,-3.02,-3.06,-2.48
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+573908000000000000, Golden Girls Prayer Candles
+
+Filtered: ['golden', 'girl', 'prayer', 'candl']
+Words not found:[]
+Emotion probabilities: -11.99,-12.14,-11.81,-12.40,-12.32,-12.13,-11.85,-12.03,-11.92,-11.83,-12.08,-12.25,-10.83
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+573982000000000000,"quick reminder ..... x-mas day has been changed to March 23, 2015 for 1 yr.... "
+
+Filtered: ['quick', 'remind', 'day', 'chang', 'march', 'yr']
+Words not found:[]
+Emotion probabilities: -17.99,-17.74,-17.56,-18.12,-18.17,-18.20,-17.75,-16.95,-18.02,-17.46,-18.12,-18.07,-17.73
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+574328000000000000,"But, it would still feel like a victory."
+
+Filtered: ['would', 'still', 'feel', 'like', 'victori']
+Words not found:[]
+Emotion probabilities: -14.99,-12.84,-14.36,-13.82,-14.79,-14.86,-14.11,-13.95,-14.67,-14.39,-14.32,-14.11,-13.56
+Predicted emotion: Sadness
+Correct emotion: Sadness
+----------------------------------------------------------------------
+574365000000000000, Breathtaking 
+
+Filtered: ['breathtak']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-3.08,-3.03,-3.04,-3.13,-3.05,-3.08,-3.02,-2.76,-3.08
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+574385000000000000,Shouts to all my fellow Daylight Saving Time truthers out there #Staywoke
+
+Filtered: ['shout', 'fellow', 'daylight', 'save', 'time']
+Words not found:[]
+Emotion probabilities: -14.99,-14.70,-13.46,-15.20,-15.09,-14.86,-14.89,-15.33,-14.97,-15.39,-14.80,-15.01,-15.12
+Predicted emotion: Enthusiasm
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+574727000000000000,Deb!!!
+
+Filtered: ['deb']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-2.80,-3.08,-3.03,-3.04,-3.13,-3.05,-3.08,-3.02,-3.06,-3.08
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+574729000000000000,Buuuut... You are.
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Happiness
+----------------------------------------------------------------------
+574734000000000000," It's like none of them give me time to hate them, because someone else makes me hate them more in the same scene."
+
+Filtered: ['like', 'none', 'give', 'time', 'hate', 'someon', 'els', 'make', 'scene']
+Words not found:[]
+Emotion probabilities: -26.69,-26.42,-25.99,-26.52,-25.86,-26.39,-26.56,-23.95,-26.28,-26.39,-26.10,-26.65,-25.47
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+574736000000000000,"""Bye, Pink Panther."""
+
+Filtered: ['bye', 'pink', 'panther']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-9.30,-9.24,-9.10,-9.11,-9.38,-9.16,-8.33,-9.06,-8.71,-9.25
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+575067000000000000,I still love that song 
+
+Filtered: ['still', 'love', 'song']
+Words not found:[]
+Emotion probabilities: -9.00,-8.33,-8.78,-8.10,-9.24,-9.10,-8.81,-8.30,-8.26,-8.63,-8.76,-8.11,-8.78
+Predicted emotion: Neutral
+Correct emotion: Relief
+----------------------------------------------------------------------
+575068000000000000,Kanye
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Worry
+----------------------------------------------------------------------
+575085000000000000,Diamond is a different strain of stupid.
+
+Filtered: ['diamond', 'differ', 'strain', 'stupid']
+Words not found:[]
+Emotion probabilities: -11.99,-12.14,-12.11,-11.80,-11.11,-12.13,-12.15,-12.51,-12.22,-12.31,-12.08,-12.25,-12.34
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+575086000000000000,Hey man. Where's Diamond's daughter? Is she getting any attention??
+
+Filtered: ['hey', 'man', 'diamond', 'daughter', 'get', 'attent']
+Words not found:[]
+Emotion probabilities: -17.99,-17.91,-18.16,-16.10,-16.79,-17.60,-17.62,-18.16,-17.33,-17.38,-17.82,-17.89,-18.20
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+575094000000000000,"""That's your verse?"" My thoughts exactly."
+
+Filtered: ['vers', 'thought', 'exact']
+Words not found:[]
+Emotion probabilities: -9.00,-8.81,-8.78,-8.22,-9.24,-9.10,-9.11,-9.08,-9.16,-8.93,-9.06,-9.19,-8.65
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+575095000000000000," ""Who did it""
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Sadness
+----------------------------------------------------------------------
+Me: ""I ain't snitching fam""
+
+Filtered: ['snitch']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-3.08,-3.03,-2.74,-3.13,-3.05,-3.08,-3.02,-3.06,-3.08
+Predicted emotion: Fun
+Correct emotion: Love
+----------------------------------------------------------------------
+Police: ""You're facing 25 to life"" "
+
+Filtered: ['polic', 'face', 'life']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-8.70,-8.64,-8.62,-9.11,-8.18,-8.86,-7.98,-9.06,-8.88,-9.25
+Predicted emotion: Fun
+Correct emotion: Happiness
+----------------------------------------------------------------------
+575353000000000000,R.I.P. Static Major
+
+Filtered: ['static', 'major']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-5.60,-6.16,-6.07,-6.08,-6.25,-6.11,-6.15,-6.04,-6.12,-6.17
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+575443000000000000,"show this on a job interview and be like ""u gotta hear both sides"" "
+
+Filtered: ['show', 'job', 'interview', 'like', 'got', 'ta', 'hear', 'side']
+Words not found:[]
+Emotion probabilities: -23.99,-23.08,-23.74,-22.64,-23.13,-23.36,-23.52,-22.61,-23.23,-22.54,-23.68,-23.59,-21.44
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+575825000000000000,Sooo... Is that Lucious' baby?
+
+Filtered: ['babi']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-2.50,-2.48,-3.03,-2.74,-2.83,-3.05,-2.78,-2.72,-3.06,-2.78
+Predicted emotion: Neutral
+Correct emotion: Boredom
+----------------------------------------------------------------------
+575826000000000000,This sounds like an Usher song.
+
+Filtered: ['sound', 'like', 'usher', 'song']
+Words not found:[]
+Emotion probabilities: -11.99,-11.54,-11.63,-11.32,-11.71,-11.83,-11.67,-11.00,-11.31,-10.53,-11.60,-11.65,-11.56
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+575828000000000000, Hakeem looks like all of the studs
+
+Filtered: ['look', 'like', 'stud']
+Words not found:[]
+Emotion probabilities: -9.00,-7.90,-8.00,-8.22,-8.16,-8.80,-8.16,-8.18,-8.56,-8.05,-8.28,-8.58,-8.17
+Predicted emotion: Fun
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+575836000000000000,Jamal ain't neva scared.
+
+Filtered: ['scare']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-3.08,-3.03,-3.04,-3.13,-2.75,-3.08,-3.02,-2.76,-3.08
+Predicted emotion: Relief
+Correct emotion: Hate
+----------------------------------------------------------------------
+576151000000000000,My emotions and/or moods are on a yo-yo these days 
+
+Filtered: ['emot', 'mood', 'day']
+Words not found:[]
+Emotion probabilities: -9.00,-8.63,-8.78,-8.82,-8.94,-9.10,-8.64,-8.78,-8.86,-8.53,-9.06,-8.28,-8.47
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+576155000000000000,So many plans that I'm excited for just year. I just need some things to get rolling
+
+Filtered: ['mani', 'plan', 'excit', 'year', 'need', 'thing', 'get', 'roll']
+Words not found:[]
+Emotion probabilities: -23.39,-23.51,-23.92,-23.20,-24.03,-23.66,-21.32,-23.33,-23.13,-23.84,-23.56,-23.72,-23.12
+Predicted emotion: Love
+Correct emotion: Love
+----------------------------------------------------------------------
+576200000000000000,He did all that and can't come upstairs?
+
+Filtered: ['come', 'upstair']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-6.20,-5.86,-6.07,-6.08,-5.48,-5.63,-6.15,-6.04,-6.12,-6.17
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+576442000000000000, Sxsw got metal detectors or nah? Asking for a friend
+
+Filtered: ['got', 'metal', 'detector', 'ask', 'friend']
+Words not found:[]
+Emotion probabilities: -14.99,-14.88,-15.14,-15.20,-14.79,-14.86,-14.89,-13.65,-14.97,-15.08,-15.10,-15.01,-14.17
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+576443000000000000,"Edits to Wikipedia pages on Bell, Garner, Diallo traced to 1 Police Plaza "
+
+Filtered: ['edit', 'page', 'bell', 'garner', 'trace', 'polic', 'plaza']
+Words not found:[]
+Emotion probabilities: -20.99,-20.95,-21.19,-21.40,-21.25,-21.23,-21.26,-19.78,-21.38,-21.24,-21.14,-21.13,-21.59
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+576477000000000000,*Adds 'Trap Queen' to Facebook name*
+
+Filtered: ['queen']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-3.08,-3.03,-3.04,-3.13,-3.05,-3.08,-3.02,-2.76,-3.08
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+576495000000000000,I'd enjoy sitting somewhere cute with an adult beverage. I don't see that happening though.
+
+Filtered: ['enjoy', 'sit', 'somewher', 'cute', 'adult', 'beverag', 'see', 'happen', 'though']
+Words not found:[]
+Emotion probabilities: -26.99,-27.32,-26.64,-27.42,-27.71,-26.82,-26.74,-27.54,-26.41,-27.39,-26.88,-24.37,-26.98
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+576515000000000000,starbucks for breakfast teas. 
+
+Filtered: ['breakfast', 'tea']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-6.20,-5.56,-6.07,-6.08,-6.25,-5.81,-6.15,-6.04,-6.12,-6.17
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+576536000000000000,"Atlanta people, Main Event is nice. Also, $5 Long Islands "
+
+Filtered: ['peopl', 'main', 'event', 'nice', 'also', 'long', 'island']
+Words not found:[]
+Emotion probabilities: -20.99,-20.65,-21.19,-19.29,-21.25,-21.23,-20.79,-21.29,-20.60,-20.46,-21.14,-20.65,-20.81
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+576538000000000000, same complex as Copland's by Cumberland
+
+Filtered: ['complex']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-2.80,-3.08,-3.03,-3.04,-3.13,-3.05,-3.08,-3.02,-3.06,-3.08
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+576539000000000000, When she just caught you  texting  a bitch at a family function 
+
+Filtered: ['caught', 'bitch', 'famili', 'function']
+Words not found:[]
+Emotion probabilities: -11.99,-12.14,-12.11,-12.40,-12.02,-12.13,-12.15,-11.91,-10.84,-12.31,-12.08,-11.95,-12.04
+Predicted emotion: Hate
+Correct emotion: Hate
+----------------------------------------------------------------------
+576574000000000000,I'd enjoy getting hyphy next
+
+Filtered: ['enjoy', 'get', 'next']
+Words not found:[]
+Emotion probabilities: -9.00,-8.81,-9.08,-8.60,-8.33,-8.80,-8.81,-9.08,-7.86,-8.45,-8.76,-8.41,-8.95
+Predicted emotion: Hate
+Correct emotion: Hate
+----------------------------------------------------------------------
+576575000000000000, we have to keep the tradition going
+
+Filtered: ['keep', 'tradit', 'go']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-8.82,-8.46,-8.62,-9.11,-8.78,-8.08,-8.93,-8.76,-9.19,-8.47
+Predicted emotion: Hate
+Correct emotion: Hate
+----------------------------------------------------------------------
+576578000000000000,I'm going to Costco and making my own
+
+Filtered: ['go', 'make']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-5.42,-5.20,-5.59,-6.08,-4.95,-5.81,-5.85,-5.44,-6.12,-4.79
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+576603000000000000,"""We gon' fuck around, mmm..."""
+
+Filtered: ['fuck', 'around']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-5.60,-5.68,-6.07,-5.77,-6.25,-5.81,-6.15,-6.04,-6.12,-5.87
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+576604000000000000,"""That's why I stay ready."""
+
+Filtered: ['stay', 'readi']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-6.20,-6.16,-5.59,-6.08,-5.95,-6.11,-5.85,-6.04,-6.12,-5.57
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+576783000000000000,BLACK LOVE!!!!!
+
+Filtered: ['black', 'love']
+Words not found:[]
+Emotion probabilities: -6.00,-5.47,-6.05,-4.90,-6.16,-6.07,-5.17,-5.48,-4.90,-5.85,-6.04,-5.65,-6.17
+Predicted emotion: Neutral
+Correct emotion: Hate
+----------------------------------------------------------------------
+576784000000000000,Some of these prom proposals are better than some marriage proposals lol
+
+Filtered: ['prom', 'propos', 'better', 'marriag']
+Words not found:[]
+Emotion probabilities: -11.99,-12.14,-12.11,-12.40,-12.32,-10.93,-12.15,-12.51,-11.61,-12.31,-12.08,-12.25,-12.04
+Predicted emotion: Surprise
+Correct emotion: Surprise
+----------------------------------------------------------------------
+576787000000000000, haha! I'm pretty sure if I were one of their mothers I'd be irritated 
+
+Filtered: ['pretti', 'sure', 'one', 'mother', 'irrit']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-15.14,-14.90,-15.09,-13.66,-15.19,-14.55,-14.97,-15.08,-15.10,-14.71,-15.12
+Predicted emotion: Surprise
+Correct emotion: Surprise
+----------------------------------------------------------------------
+577223000000000000,Lol!
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Surprise
+----------------------------------------------------------------------
+577523000000000000, The way my sleep schedule/energy is set-up 
+
+Filtered: ['way', 'sleep']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-6.20,-5.86,-6.07,-6.08,-5.48,-6.11,-6.15,-6.04,-6.12,-5.87
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+578058000000000000, Black men. Y'all so fine
+
+Filtered: ['black', 'men', 'fine']
+Words not found:[]
+Emotion probabilities: -9.00,-8.81,-9.08,-8.60,-9.24,-9.10,-8.21,-8.13,-8.56,-8.63,-9.06,-8.58,-9.25
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+578358000000000000,Is this dress church appropriate?
+
+Filtered: ['dress', 'church', 'appropri']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-8.78,-9.30,-8.33,-9.10,-9.11,-9.38,-8.86,-9.23,-9.06,-9.19,-8.95
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+578362000000000000,How come the U.S. no like Rita???
+
+Filtered: ['come', 'like']
+Words not found:[]
+Emotion probabilities: -6.00,-5.47,-5.58,-5.42,-5.26,-5.77,-5.60,-4.87,-5.03,-5.46,-5.56,-5.82,-5.39
+Predicted emotion: Fun
+Correct emotion: Hate
+----------------------------------------------------------------------
+578368000000000000,"""So what I'm GAAAAY!"" "
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Relief
+----------------------------------------------------------------------
+578369000000000000,Why. Are. They. Remaking. EVERYTHING?!?! leave it alone.
+
+Filtered: ['remak', 'everyth', 'leav', 'alon']
+Words not found:[]
+Emotion probabilities: -11.99,-12.14,-12.11,-11.02,-12.32,-10.93,-12.15,-12.51,-12.22,-11.71,-12.08,-12.25,-12.34
+Predicted emotion: Neutral
+Correct emotion: Surprise
+----------------------------------------------------------------------
+578370000000000000,Jamal and these dramatic ticks
+
+Filtered: ['dramat', 'tick']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-6.20,-5.56,-6.07,-6.08,-6.25,-6.11,-6.15,-6.04,-6.12,-6.17
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+578372000000000000,My ears don't like that intro.
+
+Filtered: ['ear', 'like', 'intro']
+Words not found:[]
+Emotion probabilities: -9.00,-8.50,-8.60,-8.52,-8.64,-8.80,-8.64,-8.18,-8.56,-8.53,-8.58,-8.88,-7.87
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+578374000000000000,I'm gonna need Jamal to remember where his loyalties lie.
+
+Filtered: ['need', 'rememb', 'loyalti', 'lie']
+Words not found:[]
+Emotion probabilities: -11.69,-11.84,-11.81,-12.10,-12.32,-11.83,-10.55,-11.91,-11.92,-11.71,-12.08,-12.25,-11.08
+Predicted emotion: Love
+Correct emotion: Love
+----------------------------------------------------------------------
+578378000000000000,This girl's mom 
+
+Filtered: ['girl']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-2.73,-3.10,-3.08,-3.03,-2.74,-2.65,-2.75,-2.60,-3.02,-3.06,-2.48
+Predicted emotion: Anger
+Correct emotion: Love
+----------------------------------------------------------------------
+578380000000000000,"Hey guys, why can't people just watch shows and have fun? "
+
+Filtered: ['hey', 'guy', 'peopl', 'watch', 'show', 'fun']
+Words not found:[]
+Emotion probabilities: -17.99,-17.91,-18.16,-16.92,-17.09,-18.20,-17.75,-17.86,-16.95,-15.83,-18.12,-17.89,-18.03
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+578390000000000000," Talkin about his lack of a ""comfort zone"" meanwhile this chick buying him all these gifts"
+
+Filtered: ['lack', 'comfort', 'zone', 'meanwhil', 'chick', 'buy', 'gift']
+Words not found:[]
+Emotion probabilities: -20.99,-19.14,-21.19,-21.70,-21.25,-21.23,-21.26,-21.89,-21.38,-21.54,-21.14,-21.13,-21.59
+Predicted emotion: Sadness
+Correct emotion: Sadness
+----------------------------------------------------------------------
+578723000000000000, Dust buster???
+
+Filtered: ['dust', 'buster']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-5.60,-6.16,-5.46,-6.08,-6.25,-6.11,-6.15,-6.04,-6.12,-6.17
+Predicted emotion: Neutral
+Correct emotion: Surprise
+----------------------------------------------------------------------
+578725000000000000,Where did they find this wig?
+
+Filtered: ['find', 'wig']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-5.45,-5.72,-5.86,-6.07,-6.08,-5.78,-6.11,-6.15,-6.04,-6.12,-6.17
+Predicted emotion: Fun
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+578727000000000000, what's a dust buster?
+
+Filtered: ['dust', 'buster']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-5.60,-6.16,-5.46,-6.08,-6.25,-6.11,-6.15,-6.04,-6.12,-6.17
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+578732000000000000,Black penis made Olivia get PTSD
+
+Filtered: ['black', 'peni', 'made', 'get']
+Words not found:[]
+Emotion probabilities: -11.99,-10.94,-12.11,-10.53,-11.71,-11.83,-10.95,-11.43,-10.92,-11.53,-11.78,-11.77,-12.04
+Predicted emotion: Neutral
+Correct emotion: Sadness
+----------------------------------------------------------------------
+578735000000000000, How should white fans approach the “overwhelming blackness” of Kendrick Lamar’s new album? 
+
+Filtered: ['white', 'fan', 'approach', 'new', 'album']
+Words not found:[]
+Emotion probabilities: -14.99,-14.40,-14.84,-15.50,-15.09,-15.17,-15.19,-15.03,-14.97,-15.08,-15.10,-13.45,-15.42
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+578737000000000000,I hope Huck doesn't die.
+
+Filtered: ['hope', 'die']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-6.20,-5.56,-6.07,-6.08,-5.95,-5.81,-5.85,-6.04,-5.35,-5.87
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+579319000000000000," Fuck you R&amp;B niggas, Zeke sing all the hooks."
+
+Filtered: ['fuck', 'r', 'amp', 'b', 'sing', 'hook']
+Words not found:[]
+Emotion probabilities: -17.99,-18.21,-18.16,-17.82,-15.92,-18.20,-17.93,-18.16,-17.72,-17.86,-17.82,-18.07,-18.20
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+579365000000000000,I feel old 
+
+Filtered: ['feel', 'old']
+Words not found:[]
+Emotion probabilities: -6.00,-5.29,-6.05,-5.90,-6.16,-6.07,-5.77,-5.65,-6.11,-5.85,-5.74,-5.82,-5.87
+Predicted emotion: Fun
+Correct emotion: Sadness
+----------------------------------------------------------------------
+579434000000000000," ""Stuff that alligator in that dolphin"" - God creating sharks"
+
+Filtered: ['stuff', 'allig', 'dolphin', 'god', 'creat', 'shark']
+Words not found:[]
+Emotion probabilities: -17.99,-18.21,-18.16,-16.79,-18.17,-17.90,-18.23,-18.46,-18.33,-18.16,-17.82,-18.07,-18.51
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+580083000000000000,Interview tiiime 
+
+Filtered: ['interview']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-2.80,-3.08,-3.03,-3.04,-3.13,-2.75,-3.08,-3.02,-3.06,-2.78
+Predicted emotion: Anger
+Correct emotion: Neutral
+----------------------------------------------------------------------
+580190000000000000," People are so scared not to ""have the upper hand."" But you'll never click with someone if you can't open "
+
+Filtered: ['peopl', 'scare', 'upper', 'hand', 'never', 'click', 'someon', 'open']
+Words not found:[]
+Emotion probabilities: -23.69,-23.98,-23.92,-23.90,-24.03,-24.26,-23.83,-23.94,-23.66,-24.14,-23.86,-21.91,-24.07
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+580586000000000000,"""A Couple of Forevers"" does something to me"
+
+Filtered: ['coupl', 'someth']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-5.90,-5.56,-6.07,-6.08,-5.95,-6.11,-5.85,-6.04,-6.12,-6.17
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+580587000000000000,Good Luvin' is greatness without Ludacris. Really can't say that enough.
+
+Filtered: ['good', 'great', 'without', 'realli', 'say', 'enough']
+Words not found:[]
+Emotion probabilities: -17.99,-18.21,-17.39,-18.00,-17.70,-18.20,-16.07,-17.46,-18.02,-17.68,-17.82,-17.29,-17.90
+Predicted emotion: Love
+Correct emotion: Love
+----------------------------------------------------------------------
+580611000000000000,Happiness is not a goal...it's a by-product of a life well lived. - Eleanor Roosevelt
+
+Filtered: ['happi', 'goal', 'life', 'well', 'live']
+Words not found:[]
+Emotion probabilities: -14.69,-14.70,-15.14,-15.20,-15.09,-13.48,-14.89,-14.43,-14.67,-14.00,-15.10,-14.41,-14.52
+Predicted emotion: Surprise
+Correct emotion: Surprise
+----------------------------------------------------------------------
+580781000000000000, Jimmy Henchman Sentenced to Life Plus 20 Years For Murder of G-Unit's Lodi Mack  
+
+Filtered: ['henchman', 'sentenc', 'life', 'plus', 'year', 'murder', 'mack']
+Words not found:[]
+Emotion probabilities: -20.99,-20.77,-21.19,-21.10,-21.25,-20.75,-20.96,-19.30,-21.08,-20.76,-20.84,-21.43,-21.11
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+580782000000000000," Hi, what is the marital status of the two Georges on the left "
+
+Filtered: ['hi', 'marit', 'status', 'two', 'left']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-15.14,-15.20,-15.40,-14.86,-15.19,-13.95,-15.27,-15.39,-15.10,-15.31,-15.12
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+581260000000000000,"Hey Cyrus, where's your baby?"
+
+Filtered: ['hey', 'babi']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-5.30,-5.08,-6.07,-5.77,-5.95,-5.81,-5.25,-5.74,-6.12,-5.87
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+581263000000000000,This throwback wig 
+
+Filtered: ['throwback', 'wig']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-5.75,-6.20,-5.56,-6.07,-6.08,-6.25,-6.11,-6.15,-6.04,-6.12,-6.17
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+581531000000000000,"Not sure if I wanna cry, scream, or pretend like I'm schleep."
+
+Filtered: ['sure', 'wan', 'cri', 'scream', 'pretend', 'like']
+Words not found:[]
+Emotion probabilities: -17.99,-17.61,-17.39,-17.82,-17.87,-17.60,-17.15,-16.95,-17.42,-16.08,-17.64,-17.77,-17.73
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+581532000000000000,"Or, or, wait for it... Get a drank."
+
+Filtered: ['wait', 'get', 'drank']
+Words not found:[]
+Emotion probabilities: -9.00,-8.81,-9.08,-8.60,-8.64,-8.80,-8.51,-8.78,-8.46,-8.75,-8.76,-8.11,-8.65
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+581928000000000000,Went walking and absolutely don't feel like moving now.
+
+Filtered: ['went', 'walk', 'absolut', 'feel', 'like', 'move']
+Words not found:[]
+Emotion probabilities: -17.99,-17.13,-17.39,-16.32,-17.57,-17.60,-17.45,-16.95,-17.42,-17.46,-17.34,-17.77,-16.82
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+581929000000000000,I'm not even really tired. Just pretty content with not moving 
+
+Filtered: ['even', 'realli', 'tire', 'pretti', 'content', 'move']
+Words not found:[]
+Emotion probabilities: -17.99,-17.91,-17.69,-17.70,-18.00,-17.90,-17.45,-18.16,-18.02,-17.68,-17.22,-16.39,-17.90
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+581930000000000000, Boko Haram said to have decapitated 23 Nigerian villagers in late-night raid. 
+
+Filtered: ['said', 'decapit', 'villag', 'raid']
+Words not found:[]
+Emotion probabilities: -11.99,-12.14,-10.91,-12.40,-12.32,-12.13,-12.15,-12.21,-12.22,-12.01,-12.08,-12.25,-12.04
+Predicted emotion: Enthusiasm
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+581970000000000000,"I'm listening, Kae. "
+
+Filtered: ['listen']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-3.08,-3.03,-3.04,-3.13,-3.05,-3.08,-2.72,-3.06,-3.08
+Predicted emotion: Fun
+Correct emotion: Boredom
+----------------------------------------------------------------------
+581971000000000000,#LosAngela
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Relief
+----------------------------------------------------------------------
+581976000000000000, I know Wayne's girlfriend/Dream's baby mama ain't bout to come preach....
+
+Filtered: ['know', 'babi', 'mama', 'bout', 'come', 'preach']
+Words not found:[]
+Emotion probabilities: -17.99,-18.21,-17.86,-17.22,-17.09,-17.90,-17.62,-17.38,-17.37,-18.16,-17.34,-17.89,-17.90
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+581982000000000000,"No, Iyanla."
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Worry
+----------------------------------------------------------------------
+581983000000000000, I love Iyanla. She's like a freelance auntie. I want to hug her before I die.
+
+Filtered: ['love', 'like', 'freelanc', 'aunti', 'want', 'hug', 'die']
+Words not found:[]
+Emotion probabilities: -20.99,-20.34,-20.71,-19.84,-20.17,-20.93,-20.19,-19.68,-19.87,-20.84,-20.36,-18.80,-20.21
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+581985000000000000,"""Apocalypto"" always got me like "
+
+Filtered: ['alway', 'got', 'like']
+Words not found:[]
+Emotion probabilities: -9.00,-8.20,-8.60,-8.22,-7.73,-8.50,-8.03,-7.88,-8.56,-8.23,-8.58,-8.58,-7.40
+Predicted emotion: Anger
+Correct emotion: Love
+----------------------------------------------------------------------
+582028000000000000, When you lied on your resume about being proficient at Excel 
+
+Filtered: ['lie', 'resum', 'profici', 'excel']
+Words not found:[]
+Emotion probabilities: -11.99,-11.54,-12.11,-12.40,-12.32,-12.13,-11.85,-12.51,-12.22,-12.01,-12.08,-12.25,-10.96
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+582223000000000000, Beautiful women who read books n love kids n animals n Pixar movies n smell like tropical fruits but can quote Pusha-T 
+
+Filtered: ['beauti', 'women', 'read', 'book', 'n', 'love', 'kid', 'anim', 'smell', 'like', 'tropic', 'fruit', 'quot']
+Words not found:[]
+Emotion probabilities: -38.98,-37.96,-38.88,-35.26,-39.43,-38.65,-38.71,-38.54,-37.90,-39.30,-38.78,-39.03,-39.32
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+582224000000000000,I should've ate #breakfass 
+
+Filtered: ['ate']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-3.08,-3.03,-3.04,-3.13,-3.05,-3.08,-3.02,-2.76,-3.08
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+582249000000000000,Phone is dying and I'll be in this place forever. Remember me 
+
+Filtered: ['phone', 'die', 'place', 'forev', 'rememb']
+Words not found:[]
+Emotion probabilities: -14.99,-14.88,-14.84,-15.50,-15.09,-14.86,-14.89,-15.03,-14.97,-14.78,-15.10,-14.83,-13.92
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+582257000000000000,Car chargers save lives 
+
+Filtered: ['car', 'charger', 'save', 'live']
+Words not found:[]
+Emotion probabilities: -11.99,-10.59,-11.81,-12.40,-12.02,-11.83,-12.15,-12.21,-12.22,-12.01,-11.78,-11.95,-12.04
+Predicted emotion: Sadness
+Correct emotion: Sadness
+----------------------------------------------------------------------
+582405000000000000,You know your day was real when you have an open bottle of champagne on your nightstand
+
+Filtered: ['know', 'day', 'real', 'open', 'bottl', 'champagn']
+Words not found:[]
+Emotion probabilities: -17.99,-17.74,-16.36,-17.65,-17.70,-18.20,-17.15,-17.08,-17.25,-17.16,-17.64,-16.99,-17.73
+Predicted emotion: Enthusiasm
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+582633000000000000,There are years that ask questions and years that answer
+
+Filtered: ['year', 'ask', 'question', 'answer']
+Words not found:[]
+Emotion probabilities: -11.99,-11.66,-11.51,-12.10,-11.71,-12.13,-11.85,-11.43,-11.92,-12.31,-11.78,-12.25,-10.96
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+582718000000000000,UNCF saved my college career
+
+Filtered: ['save', 'colleg', 'career']
+Words not found:[]
+Emotion probabilities: -9.00,-8.63,-8.48,-9.30,-8.94,-9.10,-9.11,-9.38,-9.16,-8.93,-8.16,-9.19,-9.25
+Predicted emotion: Boredom
+Correct emotion: Boredom
+----------------------------------------------------------------------
+583027000000000000,1 episode left of #BetterCallSaul. I need #moar.
+
+Filtered: ['episod', 'left', 'need']
+Words not found:[]
+Emotion probabilities: -8.39,-9.11,-8.78,-8.70,-9.24,-8.80,-8.41,-8.18,-8.86,-8.63,-9.06,-9.19,-8.17
+Predicted emotion: Fun
+Correct emotion: Anger
+----------------------------------------------------------------------
+583029000000000000," I want to flip over this ""Exodus"" display in Best Buy and yell ""Moses didn't eat green bean casserole"" but they'll probably sh…"
+
+Filtered: ['want', 'flip', 'exodus', 'display', 'best', 'buy', 'yell', 'eat', 'green', 'bean', 'casserol', 'probabl']
+Words not found:[]
+Emotion probabilities: -35.98,-36.12,-36.33,-36.12,-36.65,-36.40,-36.45,-36.52,-36.65,-36.32,-35.94,-32.95,-36.11
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+583048000000000000, Incase you're having a bad day...my prom dress came in 
+
+Filtered: ['bad', 'day', 'prom', 'dress', 'came']
+Words not found:[]
+Emotion probabilities: -14.99,-14.70,-14.53,-14.55,-14.79,-14.86,-14.71,-15.03,-13.59,-14.39,-15.10,-15.01,-14.64
+Predicted emotion: Hate
+Correct emotion: Hate
+----------------------------------------------------------------------
+583439000000000000,Faves.
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Sadness
+----------------------------------------------------------------------
+583440000000000000, My girls killed it! .Inspired Baby Shower  
+
+Filtered: ['girl', 'kill', 'babi', 'shower']
+Words not found:[]
+Emotion probabilities: -11.99,-12.14,-11.81,-11.20,-11.41,-12.13,-11.55,-11.25,-11.61,-11.53,-11.78,-11.95,-10.83
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+583652000000000000,"Today in 2002, Cam'ron drops Oh Boy, Jay-Z refuses to be in video, when he offers Cam a verse for remix, Cam refuses"
+
+Filtered: ['today', 'drop', 'oh', 'boy', 'refus', 'video', 'offer', 'cam', 'vers', 'remix']
+Words not found:[]
+Emotion probabilities: -29.99,-30.05,-29.97,-30.70,-30.19,-30.03,-30.38,-30.49,-30.24,-27.28,-30.20,-30.32,-29.64
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+583739000000000000, Awww
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Neutral
+----------------------------------------------------------------------
+583740000000000000, Wait a minute... I have questions.  
+
+Filtered: ['wait', 'minut', 'question']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-8.78,-8.82,-8.94,-9.10,-8.81,-8.48,-9.16,-9.23,-8.76,-8.88,-8.17
+Predicted emotion: Anger
+Correct emotion: Fun
+----------------------------------------------------------------------
+583810000000000000,"Bye, David."
+
+Filtered: ['bye']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-3.08,-3.03,-3.04,-3.13,-3.05,-2.78,-3.02,-2.58,-3.08
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+584431000000000000,One of the things my wife and I have intentionally set out to do is give our children experiences we… 
+
+Filtered: ['one', 'thing', 'wife', 'intent', 'set', 'give', 'children', 'experi']
+Words not found:[]
+Emotion probabilities: -23.99,-24.28,-24.22,-24.20,-24.33,-23.66,-23.83,-22.13,-23.83,-24.32,-24.16,-23.59,-24.07
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+584617000000000000,Suspend your disbelief and imagine an HBCU's team losing in the Final Four and their fans doing this. 
+
+Filtered: ['suspend', 'disbelief', 'imagin', 'team', 'lose', 'final', 'four', 'fan']
+Words not found:[]
+Emotion probabilities: -23.69,-24.28,-24.22,-24.50,-24.33,-24.26,-24.30,-22.43,-24.43,-24.62,-24.16,-24.02,-24.37
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+584802000000000000, Johns Hopkins University sued for $1 billion for STD experiments on people of color 
+
+Filtered: ['univers', 'su', 'billion', 'experi', 'peopl']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-15.14,-14.90,-15.09,-15.17,-14.71,-14.73,-13.59,-14.91,-15.10,-14.83,-15.42
+Predicted emotion: Hate
+Correct emotion: Hate
+----------------------------------------------------------------------
+584809000000000000,"Can someone explain lace-front beards to me, please?"
+
+Filtered: ['someon', 'explain', 'beard', 'pleas']
+Words not found:[]
+Emotion probabilities: -11.69,-11.84,-12.11,-12.40,-11.71,-12.13,-12.15,-12.03,-12.22,-12.31,-11.78,-11.95,-11.13
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+585178000000000000,Yall really just gotta mind your own business and live your life and create your own happ…
+
+Filtered: ['realli', 'got', 'ta', 'mind', 'busi', 'live', 'life', 'creat']
+Words not found:[]
+Emotion probabilities: -23.99,-23.20,-23.74,-22.99,-23.55,-22.88,-23.52,-23.21,-23.53,-21.86,-23.86,-23.42,-23.29
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+585231000000000000, Erica so extra
+
+Filtered: ['extra']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-2.60,-3.03,-3.04,-3.13,-3.05,-3.08,-3.02,-3.06,-3.08
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+585233000000000000, seven minutes in and im still tryna figure out who tf erica mena thinks she is 
+
+Filtered: ['seven', 'minut', 'still', 'figur', 'think']
+Words not found:[]
+Emotion probabilities: -14.99,-14.40,-14.53,-13.82,-15.40,-15.17,-15.19,-14.86,-15.27,-14.61,-14.50,-15.01,-14.47
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+585236000000000000," Oh no we can't get married yet but I'm gon do this commitment ceremony  and change my last name. 
+
+Filtered: ['oh', 'get', 'marri', 'yet', 'commit', 'ceremoni', 'chang', 'last', 'name']
+Words not found:[]
+Emotion probabilities: -26.99,-26.72,-26.95,-26.60,-26.51,-26.70,-26.74,-27.24,-26.79,-26.74,-26.88,-26.48,-24.87
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Anger
+----------------------------------------------------------------------
+K."
+
+Filtered: ['k']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-3.08,-2.73,-3.04,-3.13,-3.05,-3.08,-3.02,-3.06,-3.08
+Predicted emotion: Fun
+Correct emotion: Surprise
+----------------------------------------------------------------------
+585239000000000000,"""Go back to L.A. with your dog."""
+
+Filtered: ['go', 'back', 'dog']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-8.52,-8.46,-8.02,-9.11,-8.30,-8.86,-8.63,-8.76,-9.19,-8.47
+Predicted emotion: Fun
+Correct emotion: Surprise
+----------------------------------------------------------------------
+585243000000000000,And her mother is defending her...
+
+Filtered: ['mother', 'defend']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-6.20,-6.16,-5.77,-6.08,-5.48,-6.11,-6.15,-6.04,-6.12,-5.87
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+585260000000000000,"Missed 20 minutes of my show. Thanks, Dish."
+
+Filtered: ['miss', 'minut', 'show', 'thank', 'dish']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-14.84,-13.47,-14.79,-14.86,-15.19,-15.33,-14.97,-14.91,-14.80,-15.01,-14.47
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+585262000000000000,"One of the things I appreciate about my old job, is that it got me into the habit of setting daily goals."
+
+Filtered: ['one', 'thing', 'appreci', 'old', 'job', 'got', 'habit', 'set', 'daili', 'goal']
+Words not found:[]
+Emotion probabilities: -29.99,-29.75,-29.97,-30.40,-29.89,-29.43,-29.60,-28.86,-30.24,-30.17,-29.90,-27.43,-29.76
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+585276000000000000,"In ""American Hustle,"" Bradley Cooper looks like Drake and it's weird."
+
+Filtered: ['hustl', 'cooper', 'look', 'like', 'drake', 'weird']
+Words not found:[]
+Emotion probabilities: -17.99,-16.71,-17.39,-17.52,-16.19,-17.90,-17.27,-17.56,-17.72,-17.29,-17.34,-17.77,-17.43
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+585591000000000000," I'm like ""when did this happen?"" Lol"
+
+Filtered: ['like', 'happen']
+Words not found:[]
+Emotion probabilities: -6.00,-5.47,-5.28,-5.42,-5.56,-5.77,-5.30,-5.05,-5.51,-5.46,-5.56,-5.52,-5.09
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+585593000000000000,"So, I'm getting this job next week. Mmkay?"
+
+Filtered: ['get', 'job', 'next', 'week']
+Words not found:[]
+Emotion probabilities: -11.99,-11.84,-12.11,-11.70,-10.81,-11.83,-11.85,-11.60,-11.22,-11.53,-11.78,-11.47,-11.73
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+585594000000000000,I'm too excited to run away Friday 
+
+Filtered: ['excit', 'run', 'away']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-9.00,-8.94,-9.10,-8.81,-8.78,-8.86,-8.93,-9.06,-9.19,-8.35
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+585858000000000000,Christopher Keelty gets it. This cartoon wld be even funnier if it weren't so accurate.
+
+Filtered: ['get', 'cartoon', 'even', 'funnier', 'accur']
+Words not found:[]
+Emotion probabilities: -14.99,-14.58,-15.14,-14.50,-14.79,-14.86,-14.59,-15.03,-14.57,-14.91,-13.59,-14.53,-14.82
+Predicted emotion: Boredom
+Correct emotion: Boredom
+----------------------------------------------------------------------
+585867000000000000,I always strongly hated the Ne-Yo version.
+
+Filtered: ['alway', 'strong', 'hate', 'version']
+Words not found:[]
+Emotion probabilities: -11.99,-12.14,-12.11,-12.40,-10.64,-12.13,-11.85,-12.21,-12.22,-12.31,-12.08,-12.25,-11.43
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+585873000000000000, They've essentially made it illegal to seek safety away from police who are demonstrably a threat to Black survival. Conv…
+
+Filtered: ['essenti', 'made', 'illeg', 'seek', 'safeti', 'away', 'polic', 'demonstr', 'threat', 'black', 'surviv']
+Words not found:[]
+Emotion probabilities: -32.99,-32.79,-33.30,-30.21,-33.57,-33.36,-32.51,-33.01,-32.69,-32.94,-33.22,-33.38,-33.63
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+585875000000000000, After seein the 2nd slightly less fast n furious trailer for the NWA movie I can confirm its bout to be 
+
+Filtered: ['slight', 'less', 'fast', 'n', 'furious', 'trailer', 'confirm', 'bout']
+Words not found:[]
+Emotion probabilities: -23.99,-24.28,-24.22,-24.32,-24.33,-21.68,-24.30,-24.71,-24.43,-24.62,-24.16,-24.49,-24.67
+Predicted emotion: Surprise
+Correct emotion: Surprise
+----------------------------------------------------------------------
+585885000000000000,Did this update and I see no brown emojis 
+
+Filtered: ['updat', 'see', 'brown']
+Words not found:[]
+Emotion probabilities: -9.00,-8.81,-9.08,-8.22,-8.94,-8.62,-8.81,-9.38,-9.16,-9.23,-8.76,-7.98,-8.47
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+585947000000000000,"From now on,  this is Chris Brown."
+
+Filtered: ['brown']
+Words not found:[]
+Emotion probabilities: -3.00,-2.73,-3.03,-2.50,-2.78,-3.03,-3.04,-3.13,-3.05,-3.08,-3.02,-2.76,-2.78
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+585976000000000000,Just tweet normal business shit.
+
+Filtered: ['tweet', 'normal', 'busi', 'shit']
+Words not found:[]
+Emotion probabilities: -11.99,-11.84,-12.11,-11.62,-11.84,-12.13,-12.15,-11.73,-10.84,-11.40,-11.78,-12.25,-11.73
+Predicted emotion: Hate
+Correct emotion: Hate
+----------------------------------------------------------------------
+586260000000000000,Know what you are paying for! Ask questions before handing over your money! The price of Simply Lemonade has shot up. Fuck …
+
+Filtered: ['know', 'pay', 'ask', 'question', 'hand', 'money', 'price', 'simpli', 'lemonad', 'shot', 'fuck']
+Words not found:[]
+Emotion probabilities: -32.68,-33.39,-32.70,-33.32,-30.03,-33.36,-32.51,-32.89,-32.22,-33.85,-32.74,-32.90,-32.42
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+586357000000000000,"Hey guys, apple App Store has a 30 day free trial of HBO Now."
+
+Filtered: ['hey', 'guy', 'appl', 'store', 'day', 'free', 'trial']
+Words not found:[]
+Emotion probabilities: -20.99,-20.77,-20.89,-20.62,-18.92,-21.23,-20.79,-20.98,-20.78,-19.94,-21.14,-21.13,-20.81
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+586492000000000000, a good number?
+
+Filtered: ['good', 'number']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-5.75,-6.20,-6.16,-6.07,-5.60,-5.65,-6.11,-6.15,-6.04,-5.82,-5.87
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+586495000000000000, oh lol
+
+Filtered: ['oh']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-2.73,-3.10,-2.78,-2.73,-3.04,-3.13,-3.05,-2.60,-3.02,-2.76,-2.78
+Predicted emotion: Happiness
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+586923000000000000," Here's the full Kendrick Lamar reference verse for Kanye West's ""All Day"" "
+
+Filtered: ['full', 'refer', 'vers', 'west', 'day']
+Words not found:[]
+Emotion probabilities: -14.99,-14.70,-14.84,-14.72,-15.09,-15.17,-14.71,-15.33,-14.97,-14.08,-15.10,-15.01,-13.74
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+587415000000000000,"""Oh, my goodness. She's looking fine.""-Nev of ""Catfish"""
+
+Filtered: ['oh', 'good', 'look', 'fine', 'catfish']
+Words not found:[]
+Emotion probabilities: -14.99,-14.58,-14.23,-15.20,-14.62,-14.86,-13.93,-14.73,-15.27,-14.13,-14.80,-13.80,-14.52
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+587677000000000000,"""Did you get my text?"" What is that? I can be reached on my Yahoo Messenger."
+
+Filtered: ['get', 'text', 'reach', 'yahoo', 'messeng']
+Words not found:[]
+Emotion probabilities: -14.99,-14.40,-15.14,-14.50,-14.79,-14.86,-14.89,-15.03,-13.37,-14.91,-14.80,-14.83,-15.12
+Predicted emotion: Hate
+Correct emotion: Hate
+----------------------------------------------------------------------
+587679000000000000," RT for Jarule &amp; Ashanti
+
+Filtered: ['rt', 'amp']
+Words not found:[]
+Emotion probabilities: -6.00,-5.77,-6.05,-5.42,-4.98,-6.07,-6.08,-5.05,-6.11,-5.55,-6.04,-5.52,-6.17
+Predicted emotion: Fun
+Correct emotion: Relief
+----------------------------------------------------------------------
+FAV for Fab &amp; Lil Mo"
+
+Filtered: ['amp']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-2.62,-2.38,-3.03,-3.04,-2.52,-3.05,-2.47,-3.02,-2.76,-3.08
+Predicted emotion: Fun
+Correct emotion: Happiness
+----------------------------------------------------------------------
+587768000000000000,"""Oh, God. He shot me, he shot me. And I didn't do shit."" "
+
+Filtered: ['oh', 'god', 'shot', 'shit']
+Words not found:[]
+Emotion probabilities: -11.99,-11.84,-11.81,-11.62,-10.76,-11.53,-12.15,-11.43,-11.74,-11.23,-11.48,-11.95,-11.73
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+587998000000000000," While I'm happy that the teachers in Atlanta are being given a more humane sentence, the entire ordeal is ridiculous "
+
+Filtered: ['happi', 'teacher', 'given', 'human', 'sentenc', 'entir', 'ordeal', 'ridicul']
+Words not found:[]
+Emotion probabilities: -23.99,-24.28,-24.22,-24.80,-24.63,-23.96,-24.00,-24.41,-24.13,-22.21,-24.16,-24.49,-24.37
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+588000000000000000,I see we're only going to talk about  today.
+
+Filtered: ['see', 'go', 'talk', 'today']
+Words not found:[]
+Emotion probabilities: -11.99,-11.84,-12.11,-11.14,-11.84,-10.88,-11.85,-11.43,-11.61,-10.93,-11.48,-11.65,-10.48
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+588001000000000000,Wish I could find this tumblr post saying it's understandable if you get confused on the who's who of black people getting killed by...
+
+Filtered: ['wish', 'could', 'find', 'post', 'say', 'understand', 'get', 'confus', 'black', 'peopl', 'kill']
+Words not found:[]
+Emotion probabilities: -32.99,-32.49,-32.70,-29.52,-32.06,-33.06,-31.43,-31.36,-31.52,-32.29,-32.92,-31.82,-33.32
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+588002000000000000,"Law enforcement, because it happens so often. "
+
+Filtered: ['law', 'enforc', 'happen']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-8.18,-9.30,-9.24,-9.10,-8.81,-9.08,-9.16,-9.23,-9.06,-8.88,-8.95
+Predicted emotion: Enthusiasm
+Correct emotion: Enthusiasm
+----------------------------------------------------------------------
+588007000000000000," because it speaks to a bigger issue; standardized tests. They were wrong. But, what caused them to be wrong."
+
+Filtered: ['speak', 'bigger', 'issu', 'standard', 'test', 'wrong', 'caus']
+Words not found:[]
+Emotion probabilities: -20.99,-21.25,-20.41,-21.40,-21.25,-21.23,-21.26,-21.89,-18.92,-21.24,-21.14,-21.43,-21.59
+Predicted emotion: Hate
+Correct emotion: Hate
+----------------------------------------------------------------------
+588008000000000000,"Those were the good days, Wiz."
+
+Filtered: ['good', 'day']
+Words not found:[]
+Emotion probabilities: -6.00,-5.59,-5.45,-5.72,-5.86,-6.07,-5.12,-5.65,-5.81,-5.46,-6.04,-5.52,-5.39
+Predicted emotion: Anger
+Correct emotion: Love
+----------------------------------------------------------------------
+588009000000000000, usually
+
+Filtered: ['usual']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-2.78,-3.03,-3.04,-3.13,-3.05,-3.08,-3.02,-3.06,-3.08
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+588051000000000000,I hate these follow buttons on this app
+
+Filtered: ['hate', 'follow', 'button']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-9.30,-8.76,-9.10,-9.11,-9.08,-9.16,-9.23,-9.06,-9.19,-8.17
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+588154000000000000,Busy day tomorrow.
+
+Filtered: ['busi', 'day', 'tomorrow']
+Words not found:[]
+Emotion probabilities: -9.00,-8.63,-8.78,-8.22,-8.94,-9.10,-8.64,-8.78,-8.26,-8.23,-9.06,-8.88,-8.78
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+588157000000000000,I remember thinking MIA was going to give birth on stage.
+
+Filtered: ['rememb', 'think', 'go', 'give', 'birth', 'stage']
+Words not found:[]
+Emotion probabilities: -17.99,-18.21,-17.86,-17.82,-18.00,-17.42,-17.93,-17.26,-18.02,-16.48,-17.82,-18.37,-17.43
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+588160000000000000,That's us women : She readin so damn much into a text.
+
+Filtered: ['us', 'women', 'damn', 'much', 'text']
+Words not found:[]
+Emotion probabilities: -14.99,-13.50,-14.84,-15.20,-14.79,-15.17,-14.59,-14.73,-14.67,-15.39,-15.10,-15.31,-14.64
+Predicted emotion: Sadness
+Correct emotion: Sadness
+----------------------------------------------------------------------
+588165000000000000,we shall overcome
+
+Filtered: ['shall', 'overcom']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-6.20,-6.16,-6.07,-6.08,-5.65,-6.11,-6.15,-6.04,-6.12,-6.17
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+588166000000000000, She's ruining this before it even starts. SMH 
+
+Filtered: ['ruin', 'even', 'start']
+Words not found:[]
+Emotion probabilities: -9.00,-8.81,-9.08,-8.40,-9.24,-9.10,-8.51,-9.08,-9.16,-9.23,-8.76,-8.88,-8.95
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+588167000000000000,"""You're gonna figure it out."" Saves lives "
+
+Filtered: ['figur', 'save', 'live']
+Words not found:[]
+Emotion probabilities: -9.00,-7.85,-8.78,-9.00,-9.24,-8.80,-9.11,-9.08,-9.16,-8.93,-8.76,-8.88,-8.95
+Predicted emotion: Sadness
+Correct emotion: Sadness
+----------------------------------------------------------------------
+588168000000000000,Go home Roger #BeingMaryJane
+
+Filtered: ['go', 'home', 'roger']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-8.52,-8.76,-8.32,-8.81,-8.18,-8.86,-8.93,-8.76,-9.19,-8.47
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+588172000000000000,The only consolation is getting Bill back home.
+
+Filtered: ['consol', 'get', 'bill', 'back', 'home']
+Words not found:[]
+Emotion probabilities: -14.99,-14.88,-15.14,-13.60,-14.49,-14.26,-14.59,-14.25,-14.57,-14.61,-14.80,-14.83,-15.12
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+588173000000000000,I feel it in my spirit that Ester Dean has so much money and I'm so happy for her.
+
+Filtered: ['feel', 'spirit', 'ester', 'dean', 'much', 'money', 'happi']
+Words not found:[]
+Emotion probabilities: -20.99,-20.47,-20.89,-21.40,-20.95,-20.93,-19.16,-21.29,-20.78,-21.24,-21.14,-21.43,-20.51
+Predicted emotion: Love
+Correct emotion: Love
+----------------------------------------------------------------------
+588183000000000000,me too and I don't even know what that is.
+
+Filtered: ['even', 'know']
+Words not found:[]
+Emotion probabilities: -6.00,-5.77,-5.75,-5.42,-5.68,-6.07,-5.47,-5.35,-5.63,-6.15,-5.26,-5.35,-5.57
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+588184000000000000, nice!
+
+Filtered: ['nice']
+Words not found:[]
+Emotion probabilities: -3.00,-2.73,-3.03,-2.80,-3.08,-3.03,-3.04,-3.13,-3.05,-2.78,-3.02,-2.76,-3.08
+Predicted emotion: Neutral
+Correct emotion: Relief
+----------------------------------------------------------------------
+588215000000000000," If you aren't doing it for Lil' Saint, maybe you shouldn't be doing it."
+
+Filtered: ['saint', 'mayb']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-5.90,-6.16,-6.07,-6.08,-6.25,-6.11,-5.85,-6.04,-5.52,-6.17
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+588392000000000000,"Job Fair Tomorrow, Atlanta "
+
+Filtered: ['job', 'fair', 'tomorrow']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-9.00,-8.94,-9.10,-9.11,-8.18,-8.86,-9.23,-9.06,-8.88,-8.95
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+588393000000000000,"But, in the meantime someone needs to pay me WELL."
+
+Filtered: ['meantim', 'someon', 'need', 'pay', 'well']
+Words not found:[]
+Emotion probabilities: -13.49,-14.88,-14.84,-15.20,-14.79,-14.56,-14.49,-14.55,-14.97,-14.78,-14.80,-14.71,-14.34
+Predicted emotion: Anger
+Correct emotion: Empty
+----------------------------------------------------------------------
+588493000000000000, Peter Gunz looks like an extra from a Dave Hollister video.
+
+Filtered: ['peter', 'look', 'like', 'extra', 'video']
+Words not found:[]
+Emotion probabilities: -14.99,-13.97,-14.36,-14.42,-13.24,-14.56,-14.23,-14.43,-14.67,-13.91,-14.32,-14.71,-14.34
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+589173000000000000,"When I care, I truly care."
+
+Filtered: ['care', 'truli']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-6.20,-6.16,-5.46,-6.08,-5.95,-6.11,-6.15,-6.04,-6.12,-5.87
+Predicted emotion: Fun
+Correct emotion: Surprise
+----------------------------------------------------------------------
+589263000000000000,I just want my food 
+
+Filtered: ['want', 'food']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-5.42,-6.16,-6.07,-6.08,-5.55,-6.11,-5.85,-5.44,-5.65,-5.57
+Predicted emotion: Fun
+Correct emotion: Anger
+----------------------------------------------------------------------
+589464000000000000," ""Yo Fams step outside right quick!"" "
+
+Filtered: ['yo', 'step', 'outsid', 'right', 'quick']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-15.14,-15.20,-15.40,-15.17,-14.71,-15.03,-15.27,-13.88,-14.80,-15.31,-15.12
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+589467000000000000,"That article is so real. The most wealthy people, don't even ""look"" wealthy."
+
+Filtered: ['articl', 'real', 'wealthi', 'peopl', 'even', 'look']
+Words not found:[]
+Emotion probabilities: -17.99,-17.31,-17.26,-17.40,-17.70,-18.20,-16.07,-17.38,-17.55,-17.21,-17.52,-16.99,-17.90
+Predicted emotion: Love
+Correct emotion: Love
+----------------------------------------------------------------------
+589468000000000000,"I'm in such a good mood. I haven't felt this way in a really long time, I feel so happy."
+
+Filtered: ['good', 'mood', 'felt', 'way', 'realli', 'long', 'time', 'feel', 'happi']
+Words not found:[]
+Emotion probabilities: -26.99,-26.84,-25.99,-27.00,-26.63,-26.70,-25.48,-26.33,-26.58,-26.61,-26.88,-26.18,-25.05
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+589469000000000000," when they told ben affleck they found something terrible in his past u know he immediately thought ""gigli"""
+
+Filtered: ['told', 'found', 'someth', 'terribl', 'past', 'know', 'immedi', 'thought']
+Words not found:[]
+Emotion probabilities: -23.99,-23.98,-23.62,-22.04,-23.86,-24.26,-24.00,-23.81,-23.96,-24.32,-23.68,-24.02,-23.77
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+589519000000000000,My folks! We had a great time last night at the Emmy FYC panel.
+
+Filtered: ['folk', 'great', 'time', 'last', 'night', 'panel']
+Words not found:[]
+Emotion probabilities: -17.99,-18.21,-17.69,-18.00,-18.17,-17.90,-17.62,-17.86,-18.02,-18.16,-18.12,-16.56,-17.73
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+589866000000000000, read it again . 
+
+Filtered: ['read']
+Words not found:[]
+Emotion probabilities: -3.00,-2.73,-3.03,-2.80,-3.08,-3.03,-3.04,-3.13,-2.75,-3.08,-3.02,-3.06,-3.08
+Predicted emotion: Neutral
+Correct emotion: Hate
+----------------------------------------------------------------------
+589913000000000000, Mystery ailment kills victims within hours; 18 dead. .
+
+Filtered: ['mysteri', 'ailment', 'kill', 'victim', 'within', 'hour', 'dead']
+Words not found:[]
+Emotion probabilities: -20.99,-20.95,-21.19,-21.40,-21.25,-20.93,-20.96,-21.41,-21.08,-21.54,-21.14,-19.15,-21.29
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+589915000000000000," first off, Black Thor would have dreads my nigga."
+
+Filtered: ['first', 'black', 'would', 'dread']
+Words not found:[]
+Emotion probabilities: -11.99,-11.06,-12.11,-10.62,-12.32,-12.13,-11.25,-12.03,-11.61,-12.01,-12.08,-11.65,-11.43
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+589916000000000000,Because of them we can. 
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Anger
+----------------------------------------------------------------------
+589929000000000000,Love it!
+
+Filtered: ['love']
+Words not found:[]
+Emotion probabilities: -3.00,-2.73,-3.03,-2.50,-3.08,-3.03,-2.74,-2.83,-2.45,-3.08,-3.02,-2.58,-3.08
+Predicted emotion: Neutral
+Correct emotion: Hate
+----------------------------------------------------------------------
+589944000000000000,I'm oddly obsessed with aliens lol 
+
+Filtered: ['odd', 'obsess', 'alien']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-8.40,-9.24,-9.10,-9.11,-9.38,-9.16,-9.23,-9.06,-9.19,-9.25
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+589945000000000000,Currently attempting to zone out.
+
+Filtered: ['current', 'attempt', 'zone']
+Words not found:[]
+Emotion probabilities: -9.00,-8.50,-9.08,-9.30,-8.33,-9.10,-9.11,-9.38,-9.16,-9.23,-8.76,-9.19,-9.25
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+590168000000000000,Happy holidaze to those who partake! 
+
+Filtered: ['happi', 'partak']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-6.20,-6.16,-5.77,-5.77,-5.95,-5.51,-5.85,-6.04,-6.12,-5.87
+Predicted emotion: Hate
+Correct emotion: Hate
+----------------------------------------------------------------------
+590194000000000000, Did you eat today? Did you have a place to lay your head? If so... Your problems might not be real problems.
+
+Filtered: ['eat', 'today', 'place', 'lay', 'head', 'problem', 'might', 'real']
+Words not found:[]
+Emotion probabilities: -23.99,-23.98,-23.92,-24.50,-24.63,-24.26,-24.00,-23.76,-23.53,-21.91,-24.16,-23.89,-24.07
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+590217000000000000," Today in 1999, 13 people are killed at Columbine, Jay-Z, Damon Dash, DMX, Meth, Red donate Hard Knock Life tour money htt…"
+
+Filtered: ['today', 'peopl', 'kill', 'columbin', 'dash', 'red', 'donat', 'hard', 'knock', 'life', 'tour', 'money']
+Words not found:[]
+Emotion probabilities: -35.98,-36.12,-36.33,-36.00,-35.75,-35.62,-35.68,-35.66,-32.86,-35.37,-35.94,-35.96,-36.41
+Predicted emotion: Hate
+Correct emotion: Hate
+----------------------------------------------------------------------
+590302000000000000,I really had to pull out an ice pack for this migraine
+
+Filtered: ['realli', 'pull', 'ice', 'pack', 'migrain']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-14.66,-15.50,-14.92,-15.17,-14.71,-15.33,-14.97,-14.91,-14.80,-13.63,-15.12
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+590306000000000000,Joseline is suspended for how many episodes?
+
+Filtered: ['suspend', 'mani', 'episod']
+Words not found:[]
+Emotion probabilities: -8.09,-9.11,-9.08,-8.70,-9.24,-9.10,-8.81,-8.78,-9.16,-8.93,-9.06,-9.19,-8.95
+Predicted emotion: Fun
+Correct emotion: Empty
+----------------------------------------------------------------------
+590315000000000000,"According to reality shows, when a man wants to be an asshole, he shows up to your photo shoot."
+
+Filtered: ['accord', 'realiti', 'show', 'man', 'want', 'photo', 'shoot']
+Words not found:[]
+Emotion probabilities: -20.99,-21.25,-21.19,-18.76,-21.25,-20.93,-20.96,-20.89,-21.08,-21.06,-20.84,-20.96,-20.81
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+590327000000000000,"Yep, still happy."
+
+Filtered: ['still', 'happi']
+Words not found:[]
+Emotion probabilities: -6.00,-5.59,-5.75,-5.90,-6.16,-5.77,-5.77,-5.48,-5.81,-5.55,-5.74,-5.82,-5.39
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+590335000000000000,My niece is so cool 
+
+Filtered: ['niec', 'cool']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-5.60,-6.16,-6.07,-6.08,-6.25,-6.11,-5.68,-6.04,-6.12,-6.17
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+590550000000000000,It's not hard to see why someone dislikes Floyd.....he's a piece of shit outside the ring but a God inside
+
+Filtered: ['hard', 'see', 'someon', 'dislik', 'piec', 'shit', 'outsid', 'ring', 'god', 'insid']
+Words not found:[]
+Emotion probabilities: -29.69,-29.75,-30.27,-29.74,-30.01,-29.55,-30.08,-30.01,-29.76,-29.87,-27.19,-29.72,-29.76
+Predicted emotion: Boredom
+Correct emotion: Boredom
+----------------------------------------------------------------------
+590588000000000000,
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Anger
+----------------------------------------------------------------------
+590589000000000000,Super blown that my getaway may not happen 
+
+Filtered: ['super', 'blown', 'getaway', 'may', 'happen']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-14.53,-15.50,-15.40,-15.17,-13.51,-15.33,-15.27,-15.39,-15.10,-15.01,-15.12
+Predicted emotion: Love
+Correct emotion: Love
+----------------------------------------------------------------------
+590696000000000000, Bae leave me &amp; my kid for a teenager I'm gonna fight her mama every day til she turns 18
+
+Filtered: ['leav', 'amp', 'kid', 'teenag', 'fight', 'mama', 'everi', 'day', 'turn']
+Words not found:[]
+Emotion probabilities: -26.99,-26.54,-26.64,-24.13,-26.41,-27.00,-26.86,-25.86,-26.89,-26.09,-27.18,-26.95,-26.98
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+590697000000000000,yass!!!
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Neutral
+----------------------------------------------------------------------
+590718000000000000,"See ya later, bye!"
+
+Filtered: ['see', 'later', 'bye']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-8.82,-9.24,-8.62,-8.81,-9.38,-9.16,-8.93,-8.76,-7.81,-8.78
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+590719000000000000,l they're so annoying. I wish I could swap out the raisins for dried cranberries 
+
+Filtered: ['l', 'annoy', 'wish', 'could', 'swap', 'raisin', 'dri', 'cranberri']
+Words not found:[]
+Emotion probabilities: -23.99,-24.28,-24.22,-24.20,-24.03,-24.26,-24.00,-25.01,-24.43,-24.62,-24.16,-22.09,-24.67
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+590720000000000000,"But, I won't."
+
+Filtered: []
+Words not found:[]
+Emotion probabilities: 
+Predicted emotion: No Words Found
+Correct emotion: Worry
+----------------------------------------------------------------------
+590835000000000000, true!
+
+Filtered: ['true']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-2.78,-3.03,-3.04,-3.13,-3.05,-3.08,-3.02,-3.06,-2.78
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+590996000000000000,Just caught my first tan of the year
+
+Filtered: ['caught', 'first', 'tan', 'year']
+Words not found:[]
+Emotion probabilities: -11.99,-11.36,-12.11,-11.80,-12.32,-12.13,-11.85,-11.73,-11.92,-12.31,-11.78,-12.25,-10.96
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+591000000000000000,Tell your preacher stay off Rap Genius looking for material.
+
+Filtered: ['tell', 'preacher', 'stay', 'rap', 'genius', 'look', 'materi']
+Words not found:[]
+Emotion probabilities: -20.99,-20.65,-20.89,-21.40,-20.30,-20.75,-20.79,-21.29,-21.38,-19.26,-20.54,-21.13,-20.69
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+591021000000000000, tried the chicken sandwich yesterday
+
+Filtered: ['tri', 'chicken', 'sandwich', 'yesterday']
+Words not found:[]
+Emotion probabilities: -11.99,-12.14,-12.11,-12.40,-11.71,-11.53,-12.15,-12.51,-12.22,-11.83,-12.08,-12.25,-10.96
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+591028000000000000," the sandwich was spicy, I just B447should've B450loser attention and realized there was nacho cheese on it� it was too much"
+
+Filtered: ['sandwich', 'spici', 'attent', 'realiz', 'nacho', 'chees', 'much']
+Words not found:[]
+Emotion probabilities: -20.99,-20.95,-20.89,-21.40,-19.45,-21.23,-20.96,-21.89,-21.38,-21.54,-21.14,-21.43,-20.81
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+591052000000000000, I need a beach in my life very soon 
+
+Filtered: ['need', 'beach', 'life', 'soon']
+Words not found:[]
+Emotion probabilities: -11.69,-12.14,-11.81,-11.80,-12.02,-11.35,-11.45,-10.70,-11.61,-11.53,-12.08,-12.25,-11.86
+Predicted emotion: Fun
+Correct emotion: Fun
+----------------------------------------------------------------------
+591445000000000000,Raymond' child star commits suicide at 19  via @USATODAY
+
+Filtered: ['child', 'star', 'commit', 'suicid', 'via']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-15.14,-15.20,-13.71,-15.17,-15.19,-15.33,-15.27,-15.39,-15.10,-15.31,-15.12
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+591563000000000000,LRT is like a sci-du movie.
+
+Filtered: ['like']
+Words not found:[]
+Emotion probabilities: -3.00,-2.43,-2.55,-2.32,-2.48,-2.73,-2.56,-2.22,-2.45,-2.38,-2.54,-2.76,-2.31
+Predicted emotion: Fun
+Correct emotion: Surprise
+----------------------------------------------------------------------
+591753000000000000,me too! I haven't watched that show in so long but I had the sad face this morning lol
+
+Filtered: ['watch', 'show', 'long', 'sad', 'face', 'morn']
+Words not found:[]
+Emotion probabilities: -17.99,-18.21,-18.16,-17.52,-18.17,-18.20,-18.23,-18.16,-17.42,-16.13,-18.12,-18.37,-17.43
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+591769000000000000, girl...
+
+Filtered: ['girl']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-2.73,-3.10,-3.08,-3.03,-2.74,-2.65,-2.75,-2.60,-3.02,-3.06,-2.48
+Predicted emotion: Anger
+Correct emotion: Happiness
+----------------------------------------------------------------------
+591770000000000000,"Now, I'm just sitting here like: 😳. But hey, walk in your truth."
+
+Filtered: ['sit', 'like', 'hey', 'walk', 'truth']
+Words not found:[]
+Emotion probabilities: -14.99,-14.58,-14.66,-14.12,-14.02,-14.56,-14.71,-14.13,-13.29,-14.08,-14.62,-14.71,-14.34
+Predicted emotion: Hate
+Correct emotion: Hate
+----------------------------------------------------------------------
+591771000000000000,this shit is wild.
+
+Filtered: ['shit', 'wild']
+Words not found:[]
+Emotion probabilities: -6.00,-5.77,-6.05,-5.42,-5.68,-6.07,-6.08,-5.78,-5.63,-5.55,-5.74,-6.12,-5.87
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+591772000000000000,"Looking at Bruce's baby pics, all I see is Brody."
+
+Filtered: ['look', 'babi', 'see']
+Words not found:[]
+Emotion probabilities: -9.00,-8.50,-8.78,-7.92,-8.16,-8.62,-8.03,-8.78,-9.16,-8.45,-8.16,-8.28,-8.17
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+591773000000000000,"Hey, Brody."
+
+Filtered: ['hey']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-2.80,-2.60,-3.03,-3.04,-3.13,-2.75,-2.47,-3.02,-3.06,-3.08
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+591777000000000000,Bruce initially began transitioning in in the 80's
+
+Filtered: ['initi', 'began', 'transit']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-8.78,-9.30,-9.24,-8.20,-9.11,-9.38,-9.16,-9.23,-9.06,-9.19,-9.25
+Predicted emotion: Surprise
+Correct emotion: Surprise
+----------------------------------------------------------------------
+591782000000000000,Some of you need to chill.
+
+Filtered: ['need', 'chill']
+Words not found:[]
+Emotion probabilities: -5.70,-6.07,-5.75,-5.90,-6.16,-5.77,-5.38,-5.17,-5.81,-5.85,-6.04,-6.12,-5.39
+Predicted emotion: Fun
+Correct emotion: Anger
+----------------------------------------------------------------------
+591785000000000000,Brody so fine.
+
+Filtered: ['fine']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-3.08,-3.03,-2.74,-2.83,-3.05,-2.78,-3.02,-2.76,-3.08
+Predicted emotion: Fun
+Correct emotion: Love
+----------------------------------------------------------------------
+591786000000000000,"If I'm going off of the little bit the TV show displays, Kendall always seemed to have more Jenner in her and that's why she's dope imo."
+
+Filtered: ['go', 'littl', 'bit', 'show', 'display', 'alway', 'seem', 'dope']
+Words not found:[]
+Emotion probabilities: -23.99,-24.28,-24.22,-23.85,-23.25,-23.79,-24.00,-23.81,-23.83,-23.54,-23.86,-24.19,-21.14
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+591787000000000000,"Kylie's always been a fast ass, but that speaks more to her parenting than her."
+
+Filtered: ['alway', 'fast', 'ass', 'speak', 'parent']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-15.14,-15.50,-13.59,-14.86,-14.89,-15.63,-14.79,-15.39,-15.10,-15.31,-14.82
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+591788000000000000,fuck you Perez no one asked me to comment ....and I'm sitting with Bruce now watching this show so let's keep …
+
+Filtered: ['fuck', 'one', 'ask', 'comment', 'sit', 'watch', 'show', 'let', 'keep']
+Words not found:[]
+Emotion probabilities: -26.99,-27.32,-26.95,-26.22,-25.73,-27.00,-26.74,-27.24,-24.43,-26.74,-27.18,-26.95,-26.38
+Predicted emotion: Hate
+Correct emotion: Hate
+----------------------------------------------------------------------
+591790000000000000,"BruceJenner's story is to be respected whether the public eye ""gets it"" or not. Jenner's self identity is the only valid on…"
+
+Filtered: ['stori', 'respect', 'whether', 'public', 'eye', 'get', 'self', 'ident', 'valid']
+Words not found:[]
+Emotion probabilities: -26.99,-26.72,-27.25,-26.90,-26.81,-27.00,-27.04,-27.54,-24.38,-26.91,-26.88,-27.08,-27.46
+Predicted emotion: Hate
+Correct emotion: Hate
+----------------------------------------------------------------------
+591791000000000000,"Yes, Bruce! You better speak on violence against Black Trans Women."
+
+Filtered: ['yes', 'better', 'speak', 'violenc', 'black', 'women']
+Words not found:[]
+Emotion probabilities: -17.99,-17.61,-18.16,-17.60,-17.87,-17.90,-17.62,-17.51,-15.87,-18.16,-18.12,-18.37,-18.20
+Predicted emotion: Hate
+Correct emotion: Hate
+----------------------------------------------------------------------
+591792000000000000,I'd really like to go make some food tho... 20 more minutes 
+
+Filtered: ['realli', 'like', 'go', 'make', 'food', 'minut']
+Words not found:[]
+Emotion probabilities: -17.99,-17.61,-17.21,-16.27,-16.44,-17.42,-17.27,-15.95,-17.12,-16.68,-16.14,-17.59,-15.27
+Predicted emotion: Anger
+Correct emotion: Boredom
+----------------------------------------------------------------------
+591998000000000000,My phone is being... Fun. 3 hour delay on texts
+
+Filtered: ['phone', 'fun', 'hour', 'delay', 'text']
+Words not found:[]
+Emotion probabilities: -14.99,-13.50,-14.84,-15.50,-15.40,-15.17,-14.89,-15.03,-14.97,-15.08,-15.10,-15.01,-15.12
+Predicted emotion: Sadness
+Correct emotion: Sadness
+----------------------------------------------------------------------
+591999000000000000,This earthquake
+
+Filtered: ['earthquak']
+Words not found:[]
+Emotion probabilities: -3.00,-2.73,-3.03,-3.10,-3.08,-3.03,-3.04,-3.13,-3.05,-3.08,-3.02,-3.06,-3.08
+Predicted emotion: Fun
+Correct emotion: Sadness
+----------------------------------------------------------------------
+592163000000000000, Starlight Drive In
+
+Filtered: ['starlight', 'drive']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-6.20,-6.16,-6.07,-5.47,-6.25,-6.11,-6.15,-6.04,-6.12,-6.17
+Predicted emotion: Love
+Correct emotion: Love
+----------------------------------------------------------------------
+592166000000000000,I like the blonde!
+
+Filtered: ['like', 'blond']
+Words not found:[]
+Emotion probabilities: -6.00,-5.47,-5.58,-5.42,-5.56,-5.77,-5.60,-5.35,-5.21,-5.46,-5.56,-5.82,-5.39
+Predicted emotion: Fun
+Correct emotion: Hate
+----------------------------------------------------------------------
+592373000000000000,"21 years ago today ,OutKast released their debut album 'Southernplayalisticadillacmuzik'. #HappyAnniversary"
+
+Filtered: ['year', 'ago', 'today', 'releas', 'album']
+Words not found:[]
+Emotion probabilities: -14.99,-13.32,-15.14,-14.60,-15.40,-15.17,-14.89,-14.68,-14.97,-14.48,-14.80,-15.01,-14.64
+Predicted emotion: Sadness
+Correct emotion: Sadness
+----------------------------------------------------------------------
+592542000000000000,This. Sucks.
+
+Filtered: ['suck']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-3.08,-2.73,-3.04,-3.13,-3.05,-3.08,-3.02,-3.06,-3.08
+Predicted emotion: Fun
+Correct emotion: Surprise
+----------------------------------------------------------------------
+592551000000000000,Jay Z hopped on Twitter defending #Tidal like... 
+
+Filtered: ['jay', 'z', 'hop', 'twitter', 'defend', 'tidal', 'like']
+Words not found:[]
+Emotion probabilities: -20.99,-20.65,-20.11,-20.62,-20.95,-20.93,-20.79,-20.38,-20.78,-20.54,-20.66,-21.13,-19.01
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+592819000000000000," nah, Matthew is incredibly country."
+
+Filtered: ['incred', 'countri']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-6.20,-6.16,-6.07,-6.08,-6.25,-5.81,-5.55,-6.04,-6.12,-6.17
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+592823000000000000, So proud to announce that every high school in the U.S. will receive a FREE copy of Selma. Go team Selma! 
+
+Filtered: ['proud', 'announc', 'everi', 'high', 'school', 'receiv', 'free', 'copi', 'go', 'team']
+Words not found:[]
+Emotion probabilities: -29.99,-30.35,-30.27,-27.46,-29.84,-29.85,-30.38,-29.76,-30.24,-30.47,-29.90,-30.62,-29.46
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+592824000000000000,Men from the Nation of Islam stand between the neighborhood people and the police. Baltimo…  http:/…
+
+Filtered: ['men', 'nation', 'stand', 'peopl', 'polic', 'http']
+Words not found:[]
+Emotion probabilities: -17.99,-18.21,-18.16,-17.70,-17.87,-18.20,-17.75,-17.68,-17.85,-17.68,-18.12,-16.39,-18.51
+Predicted emotion: Relief
+Correct emotion: Relief
+----------------------------------------------------------------------
+592825000000000000,"Enough with the ""#Baltimore is burning."" Baltimore burned in 1904. Now, a CVS is on fire. It's almost as if people are h…"
+
+Filtered: ['enough', 'burn', 'fire', 'almost', 'peopl']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-15.14,-13.69,-15.09,-15.17,-14.41,-15.33,-14.49,-14.61,-15.10,-14.83,-15.42
+Predicted emotion: Neutral
+Correct emotion: Neutral
+----------------------------------------------------------------------
+592835000000000000, I love black people
+
+Filtered: ['love', 'black', 'peopl']
+Words not found:[]
+Emotion probabilities: -9.00,-8.50,-9.08,-7.40,-8.94,-9.10,-7.73,-8.30,-7.48,-8.45,-9.06,-8.23,-9.25
+Predicted emotion: Neutral
+Correct emotion: Love
+----------------------------------------------------------------------
+592839000000000000,"This is why Twitter &amp; Social media is so important. Cause at the end of the day, Fox News or CNN, they all talk about blac…"
+
+Filtered: ['twitter', 'amp', 'social', 'media', 'import', 'caus', 'end', 'day', 'fox', 'news', 'talk']
+Words not found:[]
+Emotion probabilities: -32.99,-32.91,-32.70,-32.85,-32.87,-33.06,-32.94,-32.71,-32.99,-29.66,-33.22,-33.08,-32.25
+Predicted emotion: Happiness
+Correct emotion: Happiness
+----------------------------------------------------------------------
+592845000000000000,"I'm still extremely confused about someone signing a 5 album deal with Kirk. Like, can we look at the track record???"
+
+Filtered: ['still', 'extrem', 'confus', 'someon', 'sign', 'album', 'deal', 'kirk', 'like', 'look', 'track', 'record']
+Words not found:[]
+Emotion probabilities: -35.68,-31.86,-35.25,-35.52,-35.57,-36.10,-35.50,-35.06,-36.05,-34.84,-34.86,-34.94,-35.15
+Predicted emotion: Sadness
+Correct emotion: Sadness
+----------------------------------------------------------------------
+592846000000000000,I'm going to conduck myself like a lady.
+
+Filtered: ['go', 'like', 'ladi']
+Words not found:[]
+Emotion probabilities: -9.00,-8.50,-8.30,-8.04,-8.16,-8.32,-8.64,-7.57,-8.26,-8.23,-8.28,-8.88,-7.40
+Predicted emotion: Anger
+Correct emotion: Anger
+----------------------------------------------------------------------
+592847000000000000,That shopping scene was very corny.
+
+Filtered: ['shop', 'scene', 'corni']
+Words not found:[]
+Emotion probabilities: -9.00,-9.11,-9.08,-9.30,-9.24,-9.10,-9.11,-9.08,-8.26,-9.23,-9.06,-9.19,-9.25
+Predicted emotion: Hate
+Correct emotion: Hate
+----------------------------------------------------------------------
+592848000000000000,I really hope Rasheeda and Kirk's drama is fake.
+
+Filtered: ['realli', 'hope', 'kirk', 'drama', 'fake']
+Words not found:[]
+Emotion probabilities: -14.99,-14.88,-14.66,-15.50,-13.71,-15.17,-14.71,-15.33,-14.97,-14.61,-14.80,-14.53,-15.12
+Predicted emotion: Worry
+Correct emotion: Worry
+----------------------------------------------------------------------
+592849000000000000,What's on my television? 
+
+Filtered: ['televis']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-2.78,-3.03,-3.04,-3.13,-3.05,-3.08,-3.02,-3.06,-3.08
+Predicted emotion: Worry
+Correct emotion: No Words Found
+----------------------------------------------------------------------
+592850000000000000, I think things are bad enough without you being there. 
+
+Filtered: ['think', 'thing', 'bad', 'enough', 'without']
+Words not found:[]
+Emotion probabilities: -14.99,-15.18,-14.84,-14.90,-15.40,-15.17,-14.11,-15.03,-14.79,-14.91,-15.10,-15.01,-15.42
+Predicted emotion: Love
+Correct emotion: No Words Found
+----------------------------------------------------------------------
+592851000000000000,I was so disappointed in that Wendy's sandwich. Waste of calories
+
+Filtered: ['disappoint', 'sandwich', 'wast', 'calori']
+Words not found:['disappoint', 'wast', 'calori']
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-2.78,-3.03,-3.04,-3.13,-3.05,-3.08,-3.02,-3.06,-2.78
+Predicted emotion: Anger
+Correct emotion: No Words Found
+----------------------------------------------------------------------
+592852000000000000,That baby 
+
+Filtered: ['babi']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-2.50,-2.48,-3.03,-2.74,-2.83,-3.05,-2.78,-2.72,-3.06,-2.78
+Predicted emotion: Neutral
+Correct emotion: No Words Found
+----------------------------------------------------------------------
+592854000000000000, Eve started out with Stevie J and ended up married to a billionaire. WHEN JESUS SAYS YES NOBODY CAN SAY NO.
+
+Filtered: ['eve', 'start', 'end', 'marri', 'billionair', 'say', 'yes', 'nobodi']
+Words not found:['eve', 'billionair', 'nobodi']
+Emotion probabilities: -14.99,-15.18,-15.14,-14.90,-15.09,-15.17,-14.59,-14.16,-14.79,-15.08,-15.10,-15.31,-15.12
+Predicted emotion: Fun
+Correct emotion: No Words Found
+----------------------------------------------------------------------
+592862000000000000,I miss my school
+
+Filtered: ['miss', 'school']
+Words not found:[]
+Emotion probabilities: -6.00,-6.07,-6.05,-5.60,-6.16,-6.07,-6.08,-6.25,-6.11,-6.15,-6.04,-6.12,-6.17
+Predicted emotion: Neutral
+Correct emotion: No Words Found
+----------------------------------------------------------------------
+592864000000000000, Yo this is all I can think of when I see the picture of that kid in Baltimore in the UPS truck 
+
+Filtered: ['yo', 'think', 'see', 'pictur', 'kid', 'up', 'truck']
+Words not found:['pictur', 'up', 'truck']
+Emotion probabilities: -11.99,-12.14,-11.81,-11.14,-12.32,-11.65,-11.85,-12.21,-12.22,-11.53,-11.78,-11.65,-11.86
+Predicted emotion: Neutral
+Correct emotion: No Words Found
+----------------------------------------------------------------------
+592889000000000000,"If, God forbid, someone I love dearly is killed by someone because of their race, don't expect me to call for an end to riots."
+
+Filtered: ['god', 'forbid', 'someon', 'love', 'dear', 'kill', 'race', 'expect', 'call', 'end', 'riot']
+Words not found:['forbid', 'expect', 'riot']
+Emotion probabilities: -23.69,-23.68,-23.92,-23.60,-24.03,-23.96,-24.00,-22.55,-23.53,-24.32,-23.56,-23.42,-24.07
+Predicted emotion: Fun
+Correct emotion: No Words Found
+----------------------------------------------------------------------
+592890000000000000,Baltimore accents make my heart smile.
+
+Filtered: ['accent', 'make', 'heart', 'smile']
+Words not found:['accent', 'smile']
+Emotion probabilities: -6.00,-6.07,-6.05,-5.90,-5.68,-6.07,-6.08,-5.25,-6.11,-6.15,-5.74,-6.12,-5.57
+Predicted emotion: Fun
+Correct emotion: No Words Found
+----------------------------------------------------------------------
+592891000000000000,New Orleans as well.
+
+Filtered: ['new', 'well']
+Words not found:[]
+Emotion probabilities: -5.70,-5.77,-5.75,-6.20,-5.86,-5.77,-6.08,-6.25,-5.81,-5.85,-6.04,-5.35,-5.87
+Predicted emotion: Relief
+Correct emotion: No Words Found
+----------------------------------------------------------------------
+592908000000000000, This country spent a decade consuming Black #Baltimore's misery as entertainment on TV but now when real people rise up
+
+Filtered: ['countri', 'spent', 'decad', 'consum', 'black', 'miseri', 'entertain', 'real', 'peopl', 'rise']
+Words not found:['spent', 'decad', 'consum', 'miseri', 'entertain', 'rise']
+Emotion probabilities: -11.99,-11.84,-11.81,-11.10,-12.02,-12.13,-10.77,-11.25,-10.54,-10.93,-12.08,-11.47,-12.34
+Predicted emotion: Hate
+Correct emotion: No Words Found
+----------------------------------------------------------------------
+593162000000000000, Torn x LeToya still goes
+
+Filtered: ['torn', 'x', 'still', 'goe']
+Words not found:['torn', 'x', 'goe']
+Emotion probabilities: -3.00,-2.56,-2.73,-2.80,-3.08,-3.03,-3.04,-2.65,-3.05,-2.78,-2.72,-2.76,-2.61
+Predicted emotion: Fun
+Correct emotion: No Words Found
+----------------------------------------------------------------------
+593247000000000000,Ciara is so pretty
+
+Filtered: ['pretti']
+Words not found:[]
+Emotion probabilities: -3.00,-3.04,-3.03,-2.80,-3.08,-2.73,-3.04,-3.13,-3.05,-3.08,-3.02,-2.76,-3.08
+Predicted emotion: Neutral
+Correct emotion: No Words Found
+----------------------------------------------------------------------
+593426000000000000," Happy birthday to the legendary #DukeEllington. (April 29, 1899 – May 24, 1974) "
+
+Filtered: ['happi', 'birthday', 'legendari', 'may']
+Words not found:['birthday', 'legendari']
+Emotion probabilities: -6.00,-6.07,-5.75,-6.20,-6.16,-5.77,-5.47,-5.95,-5.81,-5.85,-6.04,-6.12,-5.87
+Predicted emotion: Fun
+Correct emotion: No Words Found
+----------------------------------------------------------------------
+593444000000000000,I think I'm old. I'm really excited to rent a rug doctor for my apartment
+
+Filtered: ['think', 'old', 'realli', 'excit', 'rent', 'rug', 'doctor', 'apart']
+Words not found:['rent', 'rug', 'doctor', 'apart']
+Emotion probabilities: -11.99,-11.84,-11.33,-12.10,-11.84,-12.13,-11.37,-11.91,-11.92,-11.05,-11.48,-11.47,-11.73
+Predicted emotion: Happiness
+Correct emotion: No Words Found
+----------------------------------------------------------------------
+593448000000000000," Dawg, you really don't understand how much ppl are influenced by the media until you talk to somebody without twitter."
+
+Filtered: ['realli', 'understand', 'much', 'influenc', 'media', 'talk', 'somebodi', 'without', 'twitter']
+Words not found:['influenc']
+Emotion probabilities: -23.99,-23.98,-23.14,-23.90,-23.86,-23.96,-23.22,-24.24,-24.13,-23.06,-23.86,-24.02,-22.99
+Predicted emotion: Anger
+Correct emotion: No Words Found
+----------------------------------------------------------------------
+593449000000000000,I've been arrested/detained in Bmore. And my arrest was DEFINITELY unfair and brutal...a lot of my cast mates have the 
+
+Filtered: ['arrest', 'definit', 'unfair', 'brutal', 'lot', 'cast', 'mate']
+Words not found:['arrest', 'definit', 'unfair', 'brutal', 'cast', 'mate']
+Emotion probabilities: -3.00,-3.04,-3.03,-3.10,-3.08,-3.03,-3.04,-3.13,-3.05,-3.08,-2.72,-3.06,-3.08
+Predicted emotion: Fun
+Correct emotion: No Words Found
+----------------------------------------------------------------------
+593454000000000000,I have emoji errors all the time
+
+Filtered: ['error', 'time']
+Words not found:['error']
+Emotion probabilities: -3.00,-3.04,-2.55,-2.80,-2.78,-2.73,-2.74,-2.83,-2.75,-3.08,-3.02,-2.76,-2.78
+Predicted emotion: Fun
+Correct emotion: No Words Found
+----------------------------------------------------------------------
